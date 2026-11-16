@@ -1,0 +1,4083 @@
+[
+  {
+    "id": "topic01_01",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có muốn đi uống cà phê với tôi vào chiều nay không?",
+    "acceptedAnswers": [
+      "Would you like to get a coffee with me this afternoon?",
+      "Do you want to grab coffee with me this afternoon?",
+      "Do you want to have a coffee with me this afternoon?"
+    ],
+    "standardEnglish": "Would you like to get a coffee with me this afternoon?",
+    "hint": "Lời mời: Would you like to get a coffee",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_02",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hôm nay thời tiết thật đẹp, bạn có kế hoạch gì chưa?",
+    "acceptedAnswers": [
+      "The weather is so nice today, do you have any plans yet?",
+      "The weather is really nice today, do you have any plans?"
+    ],
+    "standardEnglish": "The weather is so nice today, do you have any plans yet?",
+    "hint": "Thời tiết: weather is so nice / have any plans",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_03",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Rất vui được gặp bạn, công việc dạo này của bạn thế nào?",
+    "acceptedAnswers": [
+      "Nice to meet you, how is work going lately?",
+      "Great to meet you, how is your work these days?"
+    ],
+    "standardEnglish": "Nice to meet you, how is work going lately?",
+    "hint": "Hỏi thăm: how is work going lately",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_04",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Xin lỗi, dạo này tôi hơi bận nên chưa kịp gọi lại cho bạn.",
+    "acceptedAnswers": [
+      "Sorry, I've been a bit busy lately, so I haven't had a chance to call you back.",
+      "I'm sorry, I have been quite busy lately so I couldn't call you back."
+    ],
+    "standardEnglish": "Sorry, I've been a bit busy lately, so I haven't had a chance to call you back.",
+    "hint": "Xin lỗi: I've been a bit busy lately",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_05",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Cuối tuần này bạn thường làm gì để thư giãn?",
+    "acceptedAnswers": [
+      "What do you usually do to relax on the weekend?",
+      "How do you usually relax on the weekend?"
+    ],
+    "standardEnglish": "What do you usually do to relax on the weekend?",
+    "hint": "Thói quen: What do you usually do to relax",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_06",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn đã từng đến thành phố này trước đây chưa?",
+    "acceptedAnswers": [
+      "Have you ever been to this city before?",
+      "Have you ever visited this city before?"
+    ],
+    "standardEnglish": "Have you ever been to this city before?",
+    "hint": "Hiện tại hoàn thành: Have you ever been to...",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_07",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Chúc bạn một ngày làm việc tràn đầy năng lượng và hiệu quả!",
+    "acceptedAnswers": [
+      "Have a productive and energetic day at work!",
+      "Have an energetic and productive work day!"
+    ],
+    "standardEnglish": "Have a productive and energetic day at work!",
+    "hint": "Chúc: Have a productive and energetic day",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_08",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hôm nay bạn thức dậy lúc mấy giờ?",
+    "acceptedAnswers": [
+      "What time did you wake up this morning?",
+      "When did you wake up today?"
+    ],
+    "standardEnglish": "What time did you wake up this morning?",
+    "hint": "Thức dậy: wake up this morning",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_09",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi thường uống một tách trà xanh trước khi bắt đầu làm việc.",
+    "acceptedAnswers": [
+      "I usually drink a cup of green tea before starting work.",
+      "I normally have a cup of green tea before I start working."
+    ],
+    "standardEnglish": "I usually drink a cup of green tea before starting work.",
+    "hint": "Thói quen: drink a cup of green tea",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_10",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có thể nói lại câu vừa rồi một lần nữa được không?",
+    "acceptedAnswers": [
+      "Could you repeat that one more time, please?",
+      "Can you say that again, please?"
+    ],
+    "standardEnglish": "Could you repeat that one more time, please?",
+    "hint": "Lặp lại: repeat that one more time",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_11",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi đồng ý hoàn toàn với quan điểm của bạn.",
+    "acceptedAnswers": [
+      "I completely agree with your point of view.",
+      "I totally agree with you."
+    ],
+    "standardEnglish": "I completely agree with your point of view.",
+    "hint": "Đồng ý: completely agree with your point",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_12",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Thật không may, hôm nay tôi có một cuộc hẹn khác rồi.",
+    "acceptedAnswers": [
+      "Unfortunately, I have another appointment today.",
+      "Sadly, I already have other plans today."
+    ],
+    "standardEnglish": "Unfortunately, I have another appointment today.",
+    "hint": "Từ chối khéo: Unfortunately, I have another appointment",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_13",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hẹn gặp lại bạn vào thứ Hai tuần tới nhé!",
+    "acceptedAnswers": [
+      "See you again next Monday!",
+      "Catch you next Monday!"
+    ],
+    "standardEnglish": "See you again next Monday!",
+    "hint": "Hẹn gặp: See you again next Monday",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_14",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn dạo này trông rất rạng rỡ và khỏe khoắn đấy.",
+    "acceptedAnswers": [
+      "You look so radiant and healthy these days.",
+      "You look really great and healthy lately."
+    ],
+    "standardEnglish": "You look so radiant and healthy these days.",
+    "hint": "Khen ngợi: look so radiant and healthy",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_15",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Cảm ơn bạn rất nhiều vì đã luôn giúp đỡ tôi.",
+    "acceptedAnswers": [
+      "Thank you so much for always helping me.",
+      "Thanks a lot for your constant help."
+    ],
+    "standardEnglish": "Thank you so much for always helping me.",
+    "hint": "Cảm ơn: Thank you so much for always helping me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_16",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi không chắc chắn lắm về điều này.",
+    "acceptedAnswers": [
+      "I'm not really sure about this.",
+      "I am not very sure about that."
+    ],
+    "standardEnglish": "I'm not really sure about this.",
+    "hint": "Lưỡng lự: not really sure about this",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_17",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hãy giữ liên lạc thường xuyên nhé!",
+    "acceptedAnswers": [
+      "Let's keep in touch regularly!",
+      "Please keep in touch!"
+    ],
+    "standardEnglish": "Let's keep in touch regularly!",
+    "hint": "Giữ liên lạc: keep in touch",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_18",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi phải đi bây giờ để kịp chuyến xe buýt.",
+    "acceptedAnswers": [
+      "I have to leave now to catch the bus.",
+      "I must go now to catch my bus."
+    ],
+    "standardEnglish": "I have to leave now to catch the bus.",
+    "hint": "Kịp xe: catch the bus",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_19",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Lâu rồi không gặp, mọi thứ vẫn tốt đẹp chứ?",
+    "acceptedAnswers": [
+      "Long time no see, is everything going well?",
+      "Long time no see, how is everything?"
+    ],
+    "standardEnglish": "Long time no see, is everything going well?",
+    "hint": "Chào bạn cũ: Long time no see",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_20",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi vừa chuyển đến một căn hộ mới vào tuần trước.",
+    "acceptedAnswers": [
+      "I just moved to a new apartment last week.",
+      "I moved into a new apartment last week."
+    ],
+    "standardEnglish": "I just moved to a new apartment last week.",
+    "hint": "Chuyển nhà: moved to a new apartment",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_21",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn thường ăn tối vào lúc mấy giờ?",
+    "acceptedAnswers": [
+      "What time do you usually have dinner?",
+      "When do you usually eat dinner?"
+    ],
+    "standardEnglish": "What time do you usually have dinner?",
+    "hint": "Ăn tối: have dinner / eat dinner",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_22",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hôm nay là một ngày thực sự bận rộn đối với tôi.",
+    "acceptedAnswers": [
+      "Today has been a really busy day for me.",
+      "Today was such a busy day for me."
+    ],
+    "standardEnglish": "Today has been a really busy day for me.",
+    "hint": "Ngày bận rộn: really busy day",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_23",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có sở thích gì đặc biệt vào những ngày mưa không?",
+    "acceptedAnswers": [
+      "Do you have any special hobbies on rainy days?",
+      "What do you like to do on rainy days?"
+    ],
+    "standardEnglish": "Do you have any special hobbies on rainy days?",
+    "hint": "Ngày mưa: on rainy days",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_24",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi thích nghe nhạc nhẹ nhàng khi đọc sách.",
+    "acceptedAnswers": [
+      "I like listening to soft music while reading books.",
+      "I enjoy soft music when reading books."
+    ],
+    "standardEnglish": "I like listening to soft music while reading books.",
+    "hint": "Nghe nhạc: listening to soft music",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_25",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Đừng lo lắng, mọi chuyện rồi sẽ ổn cả thôi.",
+    "acceptedAnswers": [
+      "Don't worry, everything will be fine.",
+      "Don't worry, it will all work out."
+    ],
+    "standardEnglish": "Don't worry, everything will be fine.",
+    "hint": "Động viên: everything will be fine",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_26",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có biết quán cà phê nào yên tĩnh quanh đây không?",
+    "acceptedAnswers": [
+      "Do you know any quiet coffee shops around here?",
+      "Do you know a quiet cafe near here?"
+    ],
+    "standardEnglish": "Do you know any quiet coffee shops around here?",
+    "hint": "Quán yên tĩnh: quiet coffee shops around here",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_27",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi cảm thấy hơi mệt nên muốn về nhà nghỉ sớm.",
+    "acceptedAnswers": [
+      "I feel a bit tired so I want to go home and rest early.",
+      "I am feeling a little tired so I'd like to rest early."
+    ],
+    "standardEnglish": "I feel a bit tired so I want to go home and rest early.",
+    "hint": "Nghỉ ngơi: go home and rest early",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_28",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Chúc bạn có một kỳ nghỉ cuối tuần vui vẻ bên người thân!",
+    "acceptedAnswers": [
+      "Have a wonderful weekend with your loved ones!",
+      "Have a great weekend with your family!"
+    ],
+    "standardEnglish": "Have a wonderful weekend with your loved ones!",
+    "hint": "Cuối tuần: wonderful weekend with your loved ones",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_29",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi hoàn toàn hiểu được cảm giác của bạn lúc này.",
+    "acceptedAnswers": [
+      "I totally understand how you feel right now.",
+      "I completely understand your feeling."
+    ],
+    "standardEnglish": "I totally understand how you feel right now.",
+    "hint": "Đồng cảm: totally understand how you feel",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_30",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Chúng ta hãy cùng nhau chụp một bức ảnh kỷ niệm nhé.",
+    "acceptedAnswers": [
+      "Let's take a memorial photo together.",
+      "Let's take a picture together as a keepsake."
+    ],
+    "standardEnglish": "Let's take a memorial photo together.",
+    "hint": "Chụp ảnh: take a photo together",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_31",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn sống ở khu vực này được bao lâu rồi?",
+    "acceptedAnswers": [
+      "How long have you lived in this area?",
+      "How long have you been living here?"
+    ],
+    "standardEnglish": "How long have you lived in this area?",
+    "hint": "Hỏi thời gian: How long have you lived in this area",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_32",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Giao thông ở đây vào giờ cao điểm rất đông đúc.",
+    "acceptedAnswers": [
+      "Traffic here during rush hour is very crowded.",
+      "The traffic is very heavy here during rush hour."
+    ],
+    "standardEnglish": "Traffic here during rush hour is very crowded.",
+    "hint": "Giờ cao điểm: rush hour / heavy traffic",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_33",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi thường dành buổi tối để học thêm kỹ năng mới.",
+    "acceptedAnswers": [
+      "I usually spend my evenings learning new skills.",
+      "I often spend evenings acquiring new skills."
+    ],
+    "standardEnglish": "I usually spend my evenings learning new skills.",
+    "hint": "Dành thời gian: spend my evenings learning",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_34",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có muốn cùng tôi đi dạo công viên không?",
+    "acceptedAnswers": [
+      "Do you want to take a walk in the park with me?",
+      "Would you like to walk in the park with me?"
+    ],
+    "standardEnglish": "Do you want to take a walk in the park with me?",
+    "hint": "Đi dạo: take a walk in the park",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_35",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Thật tuyệt vời khi được trò chuyện cùng bạn hôm nay.",
+    "acceptedAnswers": [
+      "It was wonderful talking to you today.",
+      "It's great chatting with you today."
+    ],
+    "standardEnglish": "It was wonderful talking to you today.",
+    "hint": "Trò chuyện: wonderful talking to you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_36",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có thể chỉ cho tôi cách làm điều này không?",
+    "acceptedAnswers": [
+      "Could you show me how to do this?",
+      "Can you show me how to do this?"
+    ],
+    "standardEnglish": "Could you show me how to do this?",
+    "hint": "Nhờ vả: show me how to do this",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_37",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi vừa kết thúc một ngày làm việc dài và căng thẳng.",
+    "acceptedAnswers": [
+      "I just finished a long and stressful workday.",
+      "I've just wrapped up a long, tiring workday."
+    ],
+    "standardEnglish": "I just finished a long and stressful workday.",
+    "hint": "Ngày làm việc: long and stressful workday",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_38",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hãy nhớ uống đủ nước mỗi ngày để giữ sức khỏe tốt.",
+    "acceptedAnswers": [
+      "Remember to drink enough water every day to stay healthy.",
+      "Make sure to drink plenty of water daily."
+    ],
+    "standardEnglish": "Remember to drink enough water every day to stay healthy.",
+    "hint": "Uống nước: drink enough water / stay healthy",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_39",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có kế hoạch đi du lịch đâu trong mùa hè này không?",
+    "acceptedAnswers": [
+      "Do you have any travel plans for this summer?",
+      "Are you planning to travel anywhere this summer?"
+    ],
+    "standardEnglish": "Do you have any travel plans for this summer?",
+    "hint": "Kế hoạch: travel plans for this summer",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_40",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi thích tự nấu ăn ở nhà hơn là đi ăn tiệm.",
+    "acceptedAnswers": [
+      "I prefer cooking at home to eating out.",
+      "I like cooking at home rather than eating outside."
+    ],
+    "standardEnglish": "I prefer cooking at home to eating out.",
+    "hint": "Sở thích: prefer cooking at home to eating out",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_41",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Xin lỗi vì tôi đã đến muộn mười lăm phút do kẹt xe.",
+    "acceptedAnswers": [
+      "Sorry for being fifteen minutes late due to traffic jam.",
+      "I apologize for being late by 15 minutes because of traffic."
+    ],
+    "standardEnglish": "Sorry for being fifteen minutes late due to traffic jam.",
+    "hint": "Đến muộn: being fifteen minutes late due to traffic",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_42",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Thời gian trôi qua nhanh thật, đã gần hết năm rồi.",
+    "acceptedAnswers": [
+      "Time flies so fast, it's almost the end of the year.",
+      "Time really flies, the year is nearly over."
+    ],
+    "standardEnglish": "Time flies so fast, it's almost the end of the year.",
+    "hint": "Thời gian: Time flies so fast",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_43",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi rất vui khi biết tin vui từ phía bạn.",
+    "acceptedAnswers": [
+      "I am very glad to hear good news from you.",
+      "I'm so happy to hear your good news."
+    ],
+    "standardEnglish": "I am very glad to hear good news from you.",
+    "hint": "Tin vui: glad to hear good news",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_44",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có thể gửi tài liệu đó qua tin nhắn cho tôi được không?",
+    "acceptedAnswers": [
+      "Could you send that document to me via message?",
+      "Can you message me that document?"
+    ],
+    "standardEnglish": "Could you send that document to me via message?",
+    "hint": "Gửi tài liệu: send that document to me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_45",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Tôi thường chạy bộ ba mươi phút vào mỗi sáng sớm.",
+    "acceptedAnswers": [
+      "I usually jog for thirty minutes every early morning.",
+      "I go jogging for 30 minutes every morning."
+    ],
+    "standardEnglish": "I usually jog for thirty minutes every early morning.",
+    "hint": "Chạy bộ: jog for thirty minutes",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_46",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Món quà này thực sự rất có ý nghĩa đối với tôi.",
+    "acceptedAnswers": [
+      "This gift is truly meaningful to me.",
+      "This present really means a lot to me."
+    ],
+    "standardEnglish": "This gift is truly meaningful to me.",
+    "hint": "Ý nghĩa: truly meaningful to me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_47",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Bạn có muốn cùng tôi tham gia câu lạc bộ tiếng Anh không?",
+    "acceptedAnswers": [
+      "Do you want to join the English club with me?",
+      "Would you like to join the English club with me?"
+    ],
+    "standardEnglish": "Do you want to join the English club with me?",
+    "hint": "Tham gia: join the English club with me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_48",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Chúc bạn luôn may mắn và gặt hái nhiều thành công!",
+    "acceptedAnswers": [
+      "Wish you always good luck and great success!",
+      "Wishing you all the best and much success!"
+    ],
+    "standardEnglish": "Wish you always good luck and great success!",
+    "hint": "Chúc may mắn: good luck and great success",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_49",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Hãy tự chăm sóc bản thân thật tốt trong thời tiết này nhé.",
+    "acceptedAnswers": [
+      "Take good care of yourself in this weather.",
+      "Look after yourself well in this weather."
+    ],
+    "standardEnglish": "Take good care of yourself in this weather.",
+    "hint": "Chăm sóc bản thân: Take good care of yourself",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic01_50",
+    "topic": "Giao tiếp thường ngày (Daily Life & Small Talk)",
+    "vietnamese": "Cảm ơn bạn vì một buổi tối trò chuyện thật thú vị và ấm áp!",
+    "acceptedAnswers": [
+      "Thank you for such an interesting and warm evening chat!",
+      "Thanks for a wonderful and warm evening conversation!"
+    ],
+    "standardEnglish": "Thank you for such an interesting and warm evening chat!",
+    "hint": "Buổi tối vui vẻ: interesting and warm evening chat",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_01",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Xin chào, tên tôi là Minh và tôi đến từ Hà Nội.",
+    "acceptedAnswers": [
+      "Hello, my name is Minh and I am from Hanoi.",
+      "Hi, my name is Minh and I come from Hanoi."
+    ],
+    "standardEnglish": "Hello, my name is Minh and I am from Hanoi.",
+    "hint": "Tự giới thiệu: my name is... and I am from...",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_02",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Rất hân hạnh được làm quen với bạn ngày hôm nay.",
+    "acceptedAnswers": [
+      "It is a great pleasure to meet you today.",
+      "Nice to meet you today."
+    ],
+    "standardEnglish": "It is a great pleasure to meet you today.",
+    "hint": "Lịch sự: It is a great pleasure to meet you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_03",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có thể giới thiệu đôi nét về bản thân mình không?",
+    "acceptedAnswers": [
+      "Could you introduce a little bit about yourself?",
+      "Can you tell me a little about yourself?"
+    ],
+    "standardEnglish": "Could you introduce a little bit about yourself?",
+    "hint": "Giới thiệu bản thân: introduce a little bit about yourself",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_04",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi hiện đang làm việc với tư cách là một kỹ sư phần mềm.",
+    "acceptedAnswers": [
+      "I am currently working as a software engineer.",
+      "Currently, I work as a software engineer."
+    ],
+    "standardEnglish": "I am currently working as a software engineer.",
+    "hint": "Nghề nghiệp: working as a software engineer",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_05",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn đã sống và làm việc ở thành phố này được bao lâu rồi?",
+    "acceptedAnswers": [
+      "How long have you been living and working in this city?",
+      "How long have you lived and worked here?"
+    ],
+    "standardEnglish": "How long have you been living and working in this city?",
+    "hint": "Hỏi thời gian: How long have you been living and working",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_06",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi sinh ra ở Đà Nẵng nhưng lớn lên tại Thành phố Hồ Chí Minh.",
+    "acceptedAnswers": [
+      "I was born in Da Nang but grew up in Ho Chi Minh City.",
+      "I was born in Da Nang and raised in Ho Chi Minh City."
+    ],
+    "standardEnglish": "I was born in Da Nang but grew up in Ho Chi Minh City.",
+    "hint": "Nơi sinh & lớn lên: born in... but grew up in...",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_07",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có thể đánh vần tên của bạn cho tôi được không?",
+    "acceptedAnswers": [
+      "Could you please spell your name for me?",
+      "Can you spell your name, please?"
+    ],
+    "standardEnglish": "Could you please spell your name for me?",
+    "hint": "Đánh vần: spell your name for me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_08",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Đây là đồng nghiệp thân thiết của tôi, tên anh ấy là Tuấn.",
+    "acceptedAnswers": [
+      "This is my close colleague, his name is Tuan.",
+      "Meet my close coworker, his name is Tuan."
+    ],
+    "standardEnglish": "This is my close colleague, his name is Tuan.",
+    "hint": "Giới thiệu bạn: This is my close colleague",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_09",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Chúng ta dường như đã từng gặp nhau ở sự kiện trước đây đúng không?",
+    "acceptedAnswers": [
+      "We seem to have met at an event before, right?",
+      "Haven't we met at an event before?"
+    ],
+    "standardEnglish": "We seem to have met at an event before, right?",
+    "hint": "Nhận diện người quen: We seem to have met before",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_10",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Rất vui được kết nối với bạn trên mạng lưới nghề nghiệp.",
+    "acceptedAnswers": [
+      "Glad to connect with you on the professional network.",
+      "Nice to connect with you professionally."
+    ],
+    "standardEnglish": "Glad to connect with you on the professional network.",
+    "hint": "Kết nối: Glad to connect with you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_11",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn làm việc trong ngành nghề nào?",
+    "acceptedAnswers": [
+      "What industry do you work in?",
+      "Which industry are you working in?"
+    ],
+    "standardEnglish": "What industry do you work in?",
+    "hint": "Hỏi ngành nghề: What industry do you work in",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_12",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất mong có cơ hội được hợp tác cùng bạn trong tương lai.",
+    "acceptedAnswers": [
+      "I look forward to having an opportunity to collaborate with you in the future.",
+      "I hope to cooperate with you in the future."
+    ],
+    "standardEnglish": "I look forward to having an opportunity to collaborate with you in the future.",
+    "hint": "Hợp tác: look forward to having an opportunity to collaborate",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_13",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Hãy gọi tôi bằng biệt danh là Alex nhé.",
+    "acceptedAnswers": [
+      "Please call me by my nickname, Alex.",
+      "You can call me Alex."
+    ],
+    "standardEnglish": "Please call me by my nickname, Alex.",
+    "hint": "Biệt danh: call me by my nickname",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_14",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn đến đây một mình hay đi cùng với bạn bè?",
+    "acceptedAnswers": [
+      "Did you come here alone or with friends?",
+      "Are you here by yourself or with friends?"
+    ],
+    "standardEnglish": "Did you come here alone or with friends?",
+    "hint": "Hỏi bạn đồng hành: come here alone or with friends",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_15",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất ấn tượng với bài phát biểu của bạn lúc nãy.",
+    "acceptedAnswers": [
+      "I was very impressed with your speech earlier.",
+      "I'm really impressed by your presentation earlier."
+    ],
+    "standardEnglish": "I was very impressed with your speech earlier.",
+    "hint": "Khen ngợi: impressed with your speech earlier",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_16",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Đây là danh thiếp của tôi, hãy giữ liên lạc nhé.",
+    "acceptedAnswers": [
+      "Here is my business card, please keep in touch.",
+      "This is my name card, let's stay in touch."
+    ],
+    "standardEnglish": "Here is my business card, please keep in touch.",
+    "hint": "Danh thiếp: Here is my business card",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_17",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn biết đến sự kiện này qua kênh thông tin nào vậy?",
+    "acceptedAnswers": [
+      "How did you find out about this event?",
+      "How did you hear about this event?"
+    ],
+    "standardEnglish": "How did you find out about this event?",
+    "hint": "Thông tin sự kiện: How did you find out about this event",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_18",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi thấy rất may mắn khi được gặp gỡ những người tài năng như bạn.",
+    "acceptedAnswers": [
+      "I feel very lucky to meet talented people like you.",
+      "I'm fortunate to meet talented people like you."
+    ],
+    "standardEnglish": "I feel very lucky to meet talented people like you.",
+    "hint": "Khen ngợi: lucky to meet talented people like you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_19",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Sở thích lớn nhất của bạn ngoài giờ làm việc là gì?",
+    "acceptedAnswers": [
+      "What is your biggest hobby outside of work?",
+      "What do you enjoy doing most outside work?"
+    ],
+    "standardEnglish": "What is your biggest hobby outside of work?",
+    "hint": "Sở thích: biggest hobby outside of work",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_20",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi thích đi du lịch bụi và khám phá các nền ẩm thực mới.",
+    "acceptedAnswers": [
+      "I love backpacking and exploring new cuisines.",
+      "I enjoy backpacking and discovering new foods."
+    ],
+    "standardEnglish": "I love backpacking and exploring new cuisines.",
+    "hint": "Sở thích: backpacking and exploring new cuisines",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_21",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi tốt nghiệp chuyên ngành Quản trị Kinh doanh vào năm ngoái.",
+    "acceptedAnswers": [
+      "I graduated with a major in Business Administration last year.",
+      "I graduated in Business Administration last year."
+    ],
+    "standardEnglish": "I graduated with a major in Business Administration last year.",
+    "hint": "Bằng cấp: graduated with a major in...",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_22",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn thấy bầu không khí ở buổi tiệc này thế nào?",
+    "acceptedAnswers": [
+      "How do you find the atmosphere at this party?",
+      "What do you think about the atmosphere here?"
+    ],
+    "standardEnglish": "How do you find the atmosphere at this party?",
+    "hint": "Cảm nhận: atmosphere at this party",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_23",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi hi vọng chúng ta sẽ có nhiều thời gian trò chuyện hơn.",
+    "acceptedAnswers": [
+      "I hope we will have more time to chat.",
+      "I hope we can talk more."
+    ],
+    "standardEnglish": "I hope we will have more time to chat.",
+    "hint": "Hi vọng: have more time to chat",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_24",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có sử dụng ứng dụng mạng xã hội này không?",
+    "acceptedAnswers": [
+      "Do you use this social media app?",
+      "Are you on this social app?"
+    ],
+    "standardEnglish": "Do you use this social media app?",
+    "hint": "Mạng xã hội: Do you use this social media app",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_25",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Cho phép tôi gửi lời chào trân trọng đến gia đình bạn.",
+    "acceptedAnswers": [
+      "Please give my warm regards to your family.",
+      "Send my best regards to your family."
+    ],
+    "standardEnglish": "Please give my warm regards to your family.",
+    "hint": "Lời chào: give my warm regards to your family",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_26",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất thích nụ cười thân thiện của bạn.",
+    "acceptedAnswers": [
+      "I really like your friendly smile.",
+      "You have a very friendly smile."
+    ],
+    "standardEnglish": "I really like your friendly smile.",
+    "hint": "Khen: friendly smile",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_27",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn thường tham dự những buổi gặp mặt như thế này không?",
+    "acceptedAnswers": [
+      "Do you often attend meetups like this?",
+      "Do you usually go to gatherings like this?"
+    ],
+    "standardEnglish": "Do you often attend meetups like this?",
+    "hint": "Thói quen: attend meetups like this",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_28",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi là người mới chuyển đến khu phố này sống được hai tuần.",
+    "acceptedAnswers": [
+      "I am a newcomer who moved to this neighborhood two weeks ago.",
+      "I just moved into this neighborhood two weeks ago."
+    ],
+    "standardEnglish": "I am a newcomer who moved to this neighborhood two weeks ago.",
+    "hint": "Người mới: newcomer who moved to this neighborhood",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_29",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Nếu bạn cần giúp đỡ gì về khu vực này cứ hỏi tôi nhé.",
+    "acceptedAnswers": [
+      "If you need any help about this area, just ask me.",
+      "Feel free to ask me if you need any help around here."
+    ],
+    "standardEnglish": "If you need any help about this area, just ask me.",
+    "hint": "Giúp đỡ: If you need any help... just ask me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_30",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Cảm ơn bạn vì sự đón tiếp vô cùng nồng hậu này.",
+    "acceptedAnswers": [
+      "Thank you for this extremely warm welcome.",
+      "Thanks for your very warm hospitality."
+    ],
+    "standardEnglish": "Thank you for this extremely warm welcome.",
+    "hint": "Cảm ơn: extremely warm welcome",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_31",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi đang nỗ lực cải thiện kỹ năng giao tiếp tiếng Anh của mình.",
+    "acceptedAnswers": [
+      "I am striving to improve my English communication skills.",
+      "I'm working on improving my English speaking skills."
+    ],
+    "standardEnglish": "I am striving to improve my English communication skills.",
+    "hint": "Học tập: improve my English communication skills",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_32",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn nói tiếng Anh rất trôi chảy và tự nhiên.",
+    "acceptedAnswers": [
+      "You speak English very fluently and naturally.",
+      "Your English is so fluent and natural."
+    ],
+    "standardEnglish": "You speak English very fluently and naturally.",
+    "hint": "Khen ngợi: speak English very fluently and naturally",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_33",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Cảm ơn lời khen của bạn, điều đó giúp tôi tự tin hơn nhiều.",
+    "acceptedAnswers": [
+      "Thank you for your compliment, it makes me much more confident.",
+      "Thanks for the compliment, it boosts my confidence."
+    ],
+    "standardEnglish": "Thank you for your compliment, it makes me much more confident.",
+    "hint": "Cảm ơn lời khen: Thank you for your compliment",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_34",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn đã từng có trải nghiệm làm việc ở nước ngoài chưa?",
+    "acceptedAnswers": [
+      "Have you ever had experience working abroad?",
+      "Have you ever worked overseas?"
+    ],
+    "standardEnglish": "Have you ever had experience working abroad?",
+    "hint": "Kinh nghiệm: experience working abroad",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_35",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi đã từng sống và học tập ở Úc trong hai năm.",
+    "acceptedAnswers": [
+      "I used to live and study in Australia for two years.",
+      "I lived and studied in Australia for two years."
+    ],
+    "standardEnglish": "I used to live and study in Australia for two years.",
+    "hint": "Quá khứ: used to live and study in Australia",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_36",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Thật là một sự trùng hợp bất ngờ khi quê chúng ta ở gần nhau.",
+    "acceptedAnswers": [
+      "What an amazing coincidence that our hometowns are near each other.",
+      "It's a big coincidence that we come from the same area."
+    ],
+    "standardEnglish": "What an amazing coincidence that our hometowns are near each other.",
+    "hint": "Trùng hợp: What an amazing coincidence",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_37",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có dự định tham gia hội thảo vào ngày mai không?",
+    "acceptedAnswers": [
+      "Do you plan to attend the seminar tomorrow?",
+      "Are you going to the workshop tomorrow?"
+    ],
+    "standardEnglish": "Do you plan to attend the seminar tomorrow?",
+    "hint": "Dự định: plan to attend the seminar tomorrow",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_38",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Hãy cho tôi biết nếu bạn có bất kỳ câu hỏi nào nhé.",
+    "acceptedAnswers": [
+      "Please let me know if you have any questions.",
+      "Let me know if you have any questions."
+    ],
+    "standardEnglish": "Please let me know if you have any questions.",
+    "hint": "Giao tiếp: Please let me know if you have any questions",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_39",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất trân trọng cơ hội được làm quen với bạn.",
+    "acceptedAnswers": [
+      "I truly appreciate the opportunity to get to know you.",
+      "I really appreciate meeting you."
+    ],
+    "standardEnglish": "I truly appreciate the opportunity to get to know you.",
+    "hint": "Trân trọng: appreciate the opportunity to get to know you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_40",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có muốn đi cùng chúng tôi đến sự kiện tiếp theo không?",
+    "acceptedAnswers": [
+      "Would you like to come with us to the next event?",
+      "Do you want to join us for the next event?"
+    ],
+    "standardEnglish": "Would you like to come with us to the next event?",
+    "hint": "Rủ đi cùng: Would you like to come with us",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_41",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi cảm thấy rất thoải mái khi trò chuyện cùng bạn.",
+    "acceptedAnswers": [
+      "I feel very comfortable chatting with you.",
+      "I feel at ease talking with you."
+    ],
+    "standardEnglish": "I feel very comfortable chatting with you.",
+    "hint": "Cảm nhận: feel very comfortable chatting with you",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_42",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Đây là lần đầu tiên tôi tham dự một hội nghị lớn như thế này.",
+    "acceptedAnswers": [
+      "This is the first time I have attended such a big conference.",
+      "It's my first time attending a conference like this."
+    ],
+    "standardEnglish": "This is the first time I have attended such a big conference.",
+    "hint": "Lần đầu: first time I have attended such a big conference",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_43",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Mọi người ở đây đều rất cởi mở và tốt bụng.",
+    "acceptedAnswers": [
+      "Everyone here is very open-minded and kind.",
+      "People here are so open and friendly."
+    ],
+    "standardEnglish": "Everyone here is very open-minded and kind.",
+    "hint": "Nhận xét: open-minded and kind",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_44",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Bạn có thể giới thiệu cho tôi một vài người bạn của bạn không?",
+    "acceptedAnswers": [
+      "Could you introduce me to some of your friends?",
+      "Can you introduce some friends to me?"
+    ],
+    "standardEnglish": "Could you introduce me to some of your friends?",
+    "hint": "Làm quen: introduce me to some of your friends",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_45",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất thích phong cách làm việc chuyên nghiệp của nhóm bạn.",
+    "acceptedAnswers": [
+      "I really admire your team's professional working style.",
+      "I like your team's professional style."
+    ],
+    "standardEnglish": "I really admire your team's professional working style.",
+    "hint": "Khen ngợi: professional working style",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_46",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Hy vọng chúng ta sẽ sớm có dịp gặp lại nhau để uống cà phê.",
+    "acceptedAnswers": [
+      "I hope we will soon have a chance to meet up for coffee.",
+      "Hope to catch up over coffee soon."
+    ],
+    "standardEnglish": "I hope we will soon have a chance to meet up for coffee.",
+    "hint": "Hẹn gặp: have a chance to meet up for coffee",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_47",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Chúc bạn có một buổi tối thật vui vẻ và đáng nhớ.",
+    "acceptedAnswers": [
+      "Wish you a very fun and memorable evening.",
+      "Have a wonderful and memorable evening."
+    ],
+    "standardEnglish": "Wish you a very fun and memorable evening.",
+    "hint": "Lời chúc: fun and memorable evening",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_48",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tôi rất vui vì đã quyết định tham gia sự kiện này hôm nay.",
+    "acceptedAnswers": [
+      "I am so glad that I decided to attend this event today.",
+      "I'm happy I came to this event today."
+    ],
+    "standardEnglish": "I am so glad that I decided to attend this event today.",
+    "hint": "Cảm nhận: glad that I decided to attend",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_49",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Đừng ngần ngại nhắn tin cho tôi bất cứ khi nào bạn rảnh nhé.",
+    "acceptedAnswers": [
+      "Don't hesitate to message me whenever you are free.",
+      "Feel free to text me anytime you're free."
+    ],
+    "standardEnglish": "Don't hesitate to message me whenever you are free.",
+    "hint": "Lời mời: Don't hesitate to message me",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic02_50",
+    "topic": "Gặp gỡ & Làm quen (Introductions & Greetings)",
+    "vietnamese": "Tạm biệt bạn và chúc bạn mọi điều tốt đẹp nhất!",
+    "acceptedAnswers": [
+      "Goodbye and wish you all the best!",
+      "Bye for now, wishing you the very best!"
+    ],
+    "standardEnglish": "Goodbye and wish you all the best!",
+    "hint": "Chào tạm biệt: Goodbye and wish you all the best",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic03_01",
+    "topic": "Gia đình & Người thân (Family & Relatives)",
+    "vietnamese": "Gia đình tôi có bốn thành viên gồm bố mẹ, tôi và em gái.",
+    "acceptedAnswers": [
+      "My family has four members including my parents, me, and my younger sister.",
+      "There are four people in my family: parents, me, and sister."
+    ],
+    "standardEnglish": "My family has four members including my parents, me, and my younger sister.",
+    "hint": "Số lượng thành viên: four members including...",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic03_02",
+    "topic": "Gia đình & Người thân (Family & Relatives)",
+    "vietnamese": "Bố mẹ tôi luôn ủng hộ mọi quyết định trong sự nghiệp của tôi.",
+    "acceptedAnswers": [
+      "My parents always support all my career decisions.",
+      "My parents always back up my decisions."
+    ],
+    "standardEnglish": "My parents always support all my career decisions.",
+    "hint": "Ủng hộ: always support all my career decisions",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic03_03",
+    "topic": "Gia đình & Người thân (Family & Relatives)",
+    "vietnamese": "Gia đình tôi thường tổ chức ăn tối sum họp vào mỗi tối Chủ nhật.",
+    "acceptedAnswers": [
+      "My family usually has a reunion dinner every Sunday evening.",
+      "We have a family gathering dinner every Sunday."
+    ],
+    "standardEnglish": "My family usually has a reunion dinner every Sunday evening.",
+    "hint": "Sum họp: reunion dinner every Sunday",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic03_04",
+    "topic": "Gia đình & Người thân (Family & Relatives)",
+    "vietnamese": "Tôi rất thân thiết và thường xuyên tâm sự với mẹ.",
+    "acceptedAnswers": [
+      "I am very close to my mother and often confide in her.",
+      "I'm really close to my mom and talk to her often."
+    ],
+    "standardEnglish": "I am very close to my mother and often confide in her.",
+    "hint": "Tâm sự: close to my mother and often confide in her",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic03_05",
+    "topic": "Gia đình & Người thân (Family & Relatives)",
+    "vietnamese": "Anh trai tôi vừa lập gia đình vào đầu năm nay.",
+    "acceptedAnswers": [
+      "My older brother just got married earlier this year.",
+      "My elder brother got married at the beginning of this year."
+    ],
+    "standardEnglish": "My older brother just got married earlier this year.",
+    "hint": "Kết hôn: got married earlier this year",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic04_01",
+    "topic": "Bạn bè & Tụ tập (Friends & Hangouts)",
+    "vietnamese": "Chúng tôi đã là bạn thân của nhau hơn mười năm rồi.",
+    "acceptedAnswers": [
+      "We have been best friends for over ten years.",
+      "We've been close friends for more than a decade."
+    ],
+    "standardEnglish": "We have been best friends for over ten years.",
+    "hint": "Tình bạn lâu năm: best friends for over ten years",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic04_02",
+    "topic": "Bạn bè & Tụ tập (Friends & Hangouts)",
+    "vietnamese": "Cuối tuần này nhóm mình có hẹn đi dã ngoại ở ngoại ô.",
+    "acceptedAnswers": [
+      "This weekend our group has a plan to go on a picnic in the suburbs.",
+      "Our friend group is going on a picnic this weekend."
+    ],
+    "standardEnglish": "This weekend our group has a plan to go on a picnic in the suburbs.",
+    "hint": "Dã ngoại: go on a picnic in the suburbs",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic04_03",
+    "topic": "Bạn bè & Tụ tập (Friends & Hangouts)",
+    "vietnamese": "Một người bạn tốt là người luôn ở bên cạnh bạn khi khó khăn.",
+    "acceptedAnswers": [
+      "A true friend is someone who always stands by you in hard times.",
+      "A good friend always stays by your side when times are tough."
+    ],
+    "standardEnglish": "A true friend is someone who always stands by you in hard times.",
+    "hint": "Bạn tốt: stands by you in hard times",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic04_04",
+    "topic": "Bạn bè & Tụ tập (Friends & Hangouts)",
+    "vietnamese": "Tối nay chúng ta hãy đi ăn đồ nướng rồi đi xem phim nhé.",
+    "acceptedAnswers": [
+      "Let's go for barbecue and then watch a movie tonight.",
+      "How about having BBQ and watching a movie tonight?"
+    ],
+    "standardEnglish": "Let's go for barbecue and then watch a movie tonight.",
+    "hint": "Rủ đi chơi: go for barbecue and watch a movie",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic04_05",
+    "topic": "Bạn bè & Tụ tập (Friends & Hangouts)",
+    "vietnamese": "Tôi luôn cảm thấy tràn đầy năng lượng khi ở cạnh những người bạn vui tính.",
+    "acceptedAnswers": [
+      "I always feel energetic when I am around humorous friends.",
+      "I feel so energized around my funny friends."
+    ],
+    "standardEnglish": "I always feel energetic when I am around humorous friends.",
+    "hint": "Năng lượng: energetic when I am around humorous friends",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic05_01",
+    "topic": "Cảm xúc & Tâm trạng (Feelings & Emotions)",
+    "vietnamese": "Tôi cảm thấy vô cùng phấn khởi khi nhận được lời mời làm việc này.",
+    "acceptedAnswers": [
+      "I feel extremely excited to receive this job offer.",
+      "I am so thrilled to get this job offer."
+    ],
+    "standardEnglish": "I feel extremely excited to receive this job offer.",
+    "hint": "Phấn khởi: extremely excited to receive this job offer",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic05_02",
+    "topic": "Cảm xúc & Tâm trạng (Feelings & Emotions)",
+    "vietnamese": "Đừng để những suy nghĩ tiêu cực làm ảnh hưởng đến tâm trạng của bạn.",
+    "acceptedAnswers": [
+      "Don't let negative thoughts affect your mood.",
+      "Don't allow negative thinking to ruin your mood."
+    ],
+    "standardEnglish": "Don't let negative thoughts affect your mood.",
+    "hint": "Tâm trạng: negative thoughts affect your mood",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic05_03",
+    "topic": "Cảm xúc & Tâm trạng (Feelings & Emotions)",
+    "vietnamese": "Tôi rất tự hào về những nỗ lực mà bạn đã bỏ ra suốt thời gian qua.",
+    "acceptedAnswers": [
+      "I am very proud of the efforts you have put in all this time.",
+      "I'm so proud of your hard work lately."
+    ],
+    "standardEnglish": "I am very proud of the efforts you have put in all this time.",
+    "hint": "Tự hào: proud of the efforts you have put in",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic05_04",
+    "topic": "Cảm xúc & Tâm trạng (Feelings & Emotions)",
+    "vietnamese": "Khi cảm thấy căng thẳng, tôi thường nghe nhạc không lời để thư giãn đầu óc.",
+    "acceptedAnswers": [
+      "When feeling stressed, I usually listen to instrumental music to unwind my mind.",
+      "Whenever stressed, I listen to acoustic music to relax."
+    ],
+    "standardEnglish": "When feeling stressed, I usually listen to instrumental music to unwind my mind.",
+    "hint": "Căng thẳng: listen to instrumental music to unwind",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic05_05",
+    "topic": "Cảm xúc & Tâm trạng (Feelings & Emotions)",
+    "vietnamese": "Tôi cảm thấy rất biết ơn vì những điều tốt đẹp đang diễn ra trong cuộc sống.",
+    "acceptedAnswers": [
+      "I feel very grateful for the good things happening in my life.",
+      "I'm deeply thankful for everything good in my life."
+    ],
+    "standardEnglish": "I feel very grateful for the good things happening in my life.",
+    "hint": "Biết ơn: very grateful for the good things",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic06_01",
+    "topic": "Thời tiết & Khí hậu (Weather & Seasons)",
+    "vietnamese": "Dự báo thời tiết cho biết ngày mai trời sẽ có mưa rào rải rác.",
+    "acceptedAnswers": [
+      "The weather forecast says there will be scattered showers tomorrow.",
+      "According to the forecast, it will rain tomorrow."
+    ],
+    "standardEnglish": "The weather forecast says there will be scattered showers tomorrow.",
+    "hint": "Dự báo: weather forecast says... scattered showers",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic06_02",
+    "topic": "Thời tiết & Khí hậu (Weather & Seasons)",
+    "vietnamese": "Mùa thu là mùa đẹp nhất trong năm với không khí mát mẻ và dễ chịu.",
+    "acceptedAnswers": [
+      "Autumn is the most beautiful season of the year with cool and pleasant air.",
+      "Fall is the best season with lovely, cool weather."
+    ],
+    "standardEnglish": "Autumn is the most beautiful season of the year with cool and pleasant air.",
+    "hint": "Mùa thu: cool and pleasant air",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic06_03",
+    "topic": "Thời tiết & Khí hậu (Weather & Seasons)",
+    "vietnamese": "Nhiệt độ hôm nay có thể lên tới ba mươi lăm độ C vào buổi trưa.",
+    "acceptedAnswers": [
+      "The temperature today could reach thirty-five degrees Celsius at noon.",
+      "It might reach 35 degrees Celsius around noon today."
+    ],
+    "standardEnglish": "The temperature today could reach thirty-five degrees Celsius at noon.",
+    "hint": "Nhiệt độ: reach thirty-five degrees Celsius",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic06_04",
+    "topic": "Thời tiết & Khí hậu (Weather & Seasons)",
+    "vietnamese": "Hãy nhớ mang theo ô vì trời trông có vẻ sắp đổ mưa to.",
+    "acceptedAnswers": [
+      "Remember to bring an umbrella because it looks like it's going to pour.",
+      "Take an umbrella, it looks like heavy rain soon."
+    ],
+    "standardEnglish": "Remember to bring an umbrella because it looks like it's going to pour.",
+    "hint": "Mang ô: Remember to bring an umbrella",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic06_05",
+    "topic": "Thời tiết & Khí hậu (Weather & Seasons)",
+    "vietnamese": "Tôi thích đi dạo vào buổi sáng sớm khi không khí còn trong lành.",
+    "acceptedAnswers": [
+      "I love taking a walk in the early morning when the air is still fresh.",
+      "I enjoy morning walks when the air is crisp and clean."
+    ],
+    "standardEnglish": "I love taking a walk in the early morning when the air is still fresh.",
+    "hint": "Không khí trong lành: when the air is still fresh",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic07_01",
+    "topic": "Nấu ăn & Bữa ăn (Cooking & Meals)",
+    "vietnamese": "Tôi đang học cách nấu món phở bò truyền thống theo công thức của bà.",
+    "acceptedAnswers": [
+      "I am learning how to cook traditional beef pho following my grandmother's recipe.",
+      "I'm learning to make traditional beef pho from grandma's recipe."
+    ],
+    "standardEnglish": "I am learning how to cook traditional beef pho following my grandmother's recipe.",
+    "hint": "Nấu ăn: learning how to cook traditional beef pho",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic07_02",
+    "topic": "Nấu ăn & Bữa ăn (Cooking & Meals)",
+    "vietnamese": "Việc sử dụng nguyên liệu tươi sống là bí quyết để món ăn luôn ngon miệng.",
+    "acceptedAnswers": [
+      "Using fresh ingredients is the secret to making dishes delicious.",
+      "Fresh ingredients are key to great cooking."
+    ],
+    "standardEnglish": "Using fresh ingredients is the secret to making dishes delicious.",
+    "hint": "Nguyên liệu: Using fresh ingredients is the secret",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic07_03",
+    "topic": "Nấu ăn & Bữa ăn (Cooking & Meals)",
+    "vietnamese": "Bạn có thể giúp tôi thái nhỏ chỗ cà rốt và hành tây này không?",
+    "acceptedAnswers": [
+      "Could you help me chop these carrots and onions?",
+      "Can you help chop up these carrots and onions?"
+    ],
+    "standardEnglish": "Could you help me chop these carrots and onions?",
+    "hint": "Thái rau củ: chop these carrots and onions",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic07_04",
+    "topic": "Nấu ăn & Bữa ăn (Cooking & Meals)",
+    "vietnamese": "Món canh này cần thêm một chút muối và hạt tiêu để đậm đà hơn.",
+    "acceptedAnswers": [
+      "This soup needs a bit more salt and pepper to be more flavorful.",
+      "Add a little salt and pepper to make the soup richer."
+    ],
+    "standardEnglish": "This soup needs a bit more salt and pepper to be more flavorful.",
+    "hint": "Nêm gia vị: needs a bit more salt and pepper",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic07_05",
+    "topic": "Nấu ăn & Bữa ăn (Cooking & Meals)",
+    "vietnamese": "Một bữa sáng đầy đủ dinh dưỡng sẽ cung cấp năng lượng cho cả ngày dài.",
+    "acceptedAnswers": [
+      "A nutritious breakfast will provide energy for the whole day.",
+      "Eating a healthy breakfast gives you energy all day."
+    ],
+    "standardEnglish": "A nutritious breakfast will provide energy for the whole day.",
+    "hint": "Bữa sáng dinh dưỡng: A nutritious breakfast will provide energy",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic08_01",
+    "topic": "Nhà cửa & Việc nhà (House & Chores)",
+    "vietnamese": "Chúng tôi thường dành sáng thứ Bảy để tổng vệ sinh toàn bộ ngôi nhà.",
+    "acceptedAnswers": [
+      "We usually spend Saturday mornings doing a deep clean of the entire house.",
+      "We deep-clean our whole house on Saturday mornings."
+    ],
+    "standardEnglish": "We usually spend Saturday mornings doing a deep clean of the entire house.",
+    "hint": "Tổng vệ sinh: spend Saturday mornings doing a deep clean",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic08_02",
+    "topic": "Nhà cửa & Việc nhà (House & Chores)",
+    "vietnamese": "Bạn có thể giúp tôi phơi quần áo ra ban công được không?",
+    "acceptedAnswers": [
+      "Could you help me hang the laundry out on the balcony?",
+      "Can you help hang the clothes on the balcony?"
+    ],
+    "standardEnglish": "Could you help me hang the laundry out on the balcony?",
+    "hint": "Phơi quần áo: hang the laundry out on the balcony",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic08_03",
+    "topic": "Nhà cửa & Việc nhà (House & Chores)",
+    "vietnamese": "Tôi thích trang trí phòng khách bằng một vài chậu cây xanh nhỏ xinh.",
+    "acceptedAnswers": [
+      "I like decorating the living room with some cute small green plants.",
+      "I love adding small indoor plants to my living room."
+    ],
+    "standardEnglish": "I like decorating the living room with some cute small green plants.",
+    "hint": "Trang trí: decorating the living room with small plants",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic08_04",
+    "topic": "Nhà cửa & Việc nhà (House & Chores)",
+    "vietnamese": "Căn phòng này trở nên thoáng đãng hơn nhiều sau khi được dọn dẹp ngăn nắp.",
+    "acceptedAnswers": [
+      "This room becomes much airier after being tidied up neatly.",
+      "The room looks so spacious after cleaning up."
+    ],
+    "standardEnglish": "This room becomes much airier after being tidied up neatly.",
+    "hint": "Ngăn nắp: becomes much airier after being tidied up",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic08_05",
+    "topic": "Nhà cửa & Việc nhà (House & Chores)",
+    "vietnamese": "Hãy nhớ tắt hết đèn và các thiết bị điện trước khi rời khỏi nhà.",
+    "acceptedAnswers": [
+      "Remember to turn off all lights and electrical appliances before leaving home.",
+      "Turn off lights and devices before you go out."
+    ],
+    "standardEnglish": "Remember to turn off all lights and electrical appliances before leaving home.",
+    "hint": "Tiết kiệm điện: turn off all lights and electrical appliances",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic09_01",
+    "topic": "Động vật & Thú cưng (Animals & Pets)",
+    "vietnamese": "Chú chó của tôi rất thông minh và luôn vui mừng vẫy đuôi khi tôi về nhà.",
+    "acceptedAnswers": [
+      "My dog is very smart and always wags its tail happily when I come home.",
+      "My dog always wags its tail with joy when I get home."
+    ],
+    "standardEnglish": "My dog is very smart and always wags its tail happily when I come home.",
+    "hint": "Thú cưng: wags its tail happily when I come home",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic09_02",
+    "topic": "Động vật & Thú cưng (Animals & Pets)",
+    "vietnamese": "Tôi thường dắt thú cưng đi dạo quanh công viên vào mỗi buổi chiều mát.",
+    "acceptedAnswers": [
+      "I usually walk my pet around the park every cool afternoon.",
+      "I take my dog for a walk around the park in the afternoon."
+    ],
+    "standardEnglish": "I usually walk my pet around the park every cool afternoon.",
+    "hint": "Dắt đi dạo: walk my pet around the park",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic09_03",
+    "topic": "Động vật & Thú cưng (Animals & Pets)",
+    "vietnamese": "Chúng tôi quyết định nhận nuôi một chú mèo con bị bỏ rơi ở trạm cứu hộ.",
+    "acceptedAnswers": [
+      "We decided to adopt an abandoned kitten from the rescue shelter.",
+      "We adopted a rescue kitten from the animal shelter."
+    ],
+    "standardEnglish": "We decided to adopt an abandoned kitten from the rescue shelter.",
+    "hint": "Nhận nuôi: adopt an abandoned kitten from the shelter",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic09_04",
+    "topic": "Động vật & Thú cưng (Animals & Pets)",
+    "vietnamese": "Bạn nên đưa thú cưng đi khám định kỳ và tiêm phòng đầy đủ tại phòng khám thú y.",
+    "acceptedAnswers": [
+      "You should take your pet for regular checkups and vaccinations at the vet clinic.",
+      "Make sure your pet gets regular checkups at the vet."
+    ],
+    "standardEnglish": "You should take your pet for regular checkups and vaccinations at the vet clinic.",
+    "hint": "Khám thú y: regular checkups and vaccinations at the vet",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic09_05",
+    "topic": "Động vật & Thú cưng (Animals & Pets)",
+    "vietnamese": "Chăm sóc một con vật nuôi dạy cho chúng ta lòng kiên nhẫn và tinh thần trách nhiệm.",
+    "acceptedAnswers": [
+      "Caring for a pet teaches us patience and a sense of responsibility.",
+      "Having a pet teaches patience and responsibility."
+    ],
+    "standardEnglish": "Caring for a pet teaches us patience and a sense of responsibility.",
+    "hint": "Trách nhiệm: teaches us patience and responsibility",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic10_01",
+    "topic": "Lễ hội & Ngày nghỉ (Festivals & Holidays)",
+    "vietnamese": "Tết Nguyên Đán là dịp lễ truyền thống quan trọng nhất của người Việt Nam.",
+    "acceptedAnswers": [
+      "Lunar New Year is the most important traditional holiday in Vietnam.",
+      "Tet is the most meaningful traditional festival for Vietnamese people."
+    ],
+    "standardEnglish": "Lunar New Year is the most important traditional holiday in Vietnam.",
+    "hint": "Tết cổ truyền: most important traditional holiday",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic10_02",
+    "topic": "Lễ hội & Ngày nghỉ (Festivals & Holidays)",
+    "vietnamese": "Trẻ em rất hào hứng khi được nhận phong bao lì xì đỏ vào ngày đầu năm.",
+    "acceptedAnswers": [
+      "Children are very excited to receive red envelopes with lucky money on New Year's Day.",
+      "Kids love getting lucky money in red envelopes during Tet."
+    ],
+    "standardEnglish": "Children are very excited to receive red envelopes with lucky money on New Year's Day.",
+    "hint": "Lì xì: receive red envelopes with lucky money",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic10_03",
+    "topic": "Lễ hội & Ngày nghỉ (Festivals & Holidays)",
+    "vietnamese": "Chúng tôi dự định sẽ đi du lịch Đà Lạt để thư giãn trong kỳ nghỉ lễ sắp tới.",
+    "acceptedAnswers": [
+      "We plan to travel to Da Lat to relax during the upcoming public holiday.",
+      "We're planning a trip to Da Lat for the upcoming break."
+    ],
+    "standardEnglish": "We plan to travel to Da Lat to relax during the upcoming public holiday.",
+    "hint": "Kỳ nghỉ: relax during the upcoming public holiday",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic10_04",
+    "topic": "Lễ hội & Ngày nghỉ (Festivals & Holidays)",
+    "vietnamese": "Không khí đêm Giáng sinh ở trung tâm thành phố rực rỡ ánh đèn lung linh.",
+    "acceptedAnswers": [
+      "The atmosphere on Christmas Eve in the city center is brilliant with sparkling lights.",
+      "The city center is dazzling with festive lights on Christmas Eve."
+    ],
+    "standardEnglish": "The atmosphere on Christmas Eve in the city center is brilliant with sparkling lights.",
+    "hint": "Giáng sinh: Christmas Eve in the city center",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic10_05",
+    "topic": "Lễ hội & Ngày nghỉ (Festivals & Holidays)",
+    "vietnamese": "Chúc bạn và gia đình một năm mới an khang thịnh vượng và vạn sự như ý!",
+    "acceptedAnswers": [
+      "Wishing you and your family a healthy, prosperous, and auspicious New Year!",
+      "Wish you and your family a prosperous and happy New Year!"
+    ],
+    "standardEnglish": "Wishing you and your family a healthy, prosperous, and auspicious New Year!",
+    "hint": "Lời chúc năm mới: healthy, prosperous, and auspicious New Year",
+    "category": "Đời sống"
+  },
+  {
+    "id": "topic11_01",
+    "topic": "Du lịch & Đi lại (Travel & Sightseeing)",
+    "vietnamese": "Bạn có thể giới thiệu cho tôi một vài điểm tham quan nổi tiếng ở thành phố này không?",
+    "acceptedAnswers": [
+      "Could you recommend some famous tourist attractions in this city?",
+      "Can you suggest some popular sightseeing spots here?"
+    ],
+    "standardEnglish": "Could you recommend some famous tourist attractions in this city?",
+    "hint": "Gợi ý: recommend some famous tourist attractions",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic11_02",
+    "topic": "Du lịch & Đi lại (Travel & Sightseeing)",
+    "vietnamese": "Tôi muốn đặt một tour du lịch trọn gói tham quan vịnh Hạ Long trong hai ngày.",
+    "acceptedAnswers": [
+      "I want to book a two-day package tour visiting Ha Long Bay.",
+      "I'd like to book a 2-day tour to Ha Long Bay."
+    ],
+    "standardEnglish": "I want to book a two-day package tour visiting Ha Long Bay.",
+    "hint": "Đặt tour: book a two-day package tour",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic11_03",
+    "topic": "Du lịch & Đi lại (Travel & Sightseeing)",
+    "vietnamese": "Giá vé vào cổng tham quan khu di tích này là bao nhiêu tiền một người?",
+    "acceptedAnswers": [
+      "How much is the admission ticket to this historical site per person?",
+      "What is the entrance fee per person for this site?"
+    ],
+    "standardEnglish": "How much is the admission ticket to this historical site per person?",
+    "hint": "Giá vé: admission ticket to this historical site per person",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic11_04",
+    "topic": "Du lịch & Đi lại (Travel & Sightseeing)",
+    "vietnamese": "Chúng tôi muốn thuê một hướng dẫn viên du lịch nói tiếng Anh cho cả ngày hôm nay.",
+    "acceptedAnswers": [
+      "We would like to hire an English-speaking tour guide for the whole day today.",
+      "We want to hire a guide who speaks English today."
+    ],
+    "standardEnglish": "We would like to hire an English-speaking tour guide for the whole day today.",
+    "hint": "Thuê HDV: hire an English-speaking tour guide",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic11_05",
+    "topic": "Du lịch & Đi lại (Travel & Sightseeing)",
+    "vietnamese": "Bạn nên mua một vài món quà lưu niệm thủ công mỹ nghệ về làm quà cho người thân.",
+    "acceptedAnswers": [
+      "You should buy some handmade souvenirs as gifts for your loved ones.",
+      "Get some handcrafted souvenirs for your family."
+    ],
+    "standardEnglish": "You should buy some handmade souvenirs as gifts for your loved ones.",
+    "hint": "Đồ lưu niệm: buy some handmade souvenirs as gifts",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic12_01",
+    "topic": "Hỏi đường & Chỉ đường (Directions & Navigation)",
+    "vietnamese": "Làm ơn cho tôi hỏi đường gần nhất để đến ga tàu điện ngầm?",
+    "acceptedAnswers": [
+      "Excuse me, could you tell me the way to the nearest subway station?",
+      "Could you show me the way to the nearest subway station?"
+    ],
+    "standardEnglish": "Excuse me, could you tell me the way to the nearest subway station?",
+    "hint": "Hỏi đường: tell me the way to the nearest subway station",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic12_02",
+    "topic": "Hỏi đường & Chỉ đường (Directions & Navigation)",
+    "vietnamese": "Hãy đi thẳng khoảng hai trăm mét rồi rẽ phải ở ngã tư tiếp theo.",
+    "acceptedAnswers": [
+      "Go straight ahead for about two hundred meters, then turn right at the next intersection.",
+      "Walk straight for 200 meters and turn right at the next crossing."
+    ],
+    "standardEnglish": "Go straight ahead for about two hundred meters, then turn right at the next intersection.",
+    "hint": "Chỉ đường: Go straight ahead... turn right",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic12_03",
+    "topic": "Hỏi đường & Chỉ đường (Directions & Navigation)",
+    "vietnamese": "Tòa nhà bưu điện nằm ở ngay phía đối diện với ngân hàng lớn.",
+    "acceptedAnswers": [
+      "The post office building is located right opposite the big bank.",
+      "The post office is directly across from the large bank."
+    ],
+    "standardEnglish": "The post office building is located right opposite the big bank.",
+    "hint": "Vị trí: located right opposite the big bank",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic12_04",
+    "topic": "Hỏi đường & Chỉ đường (Directions & Navigation)",
+    "vietnamese": "Từ đây đi bộ đến bảo tàng mỹ thuật mất khoảng bao nhiêu phút?",
+    "acceptedAnswers": [
+      "How many minutes does it take to walk from here to the fine arts museum?",
+      "How long does it take on foot to reach the art museum?"
+    ],
+    "standardEnglish": "How many minutes does it take to walk from here to the fine arts museum?",
+    "hint": "Khoảng cách: How many minutes does it take to walk",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic12_05",
+    "topic": "Hỏi đường & Chỉ đường (Directions & Navigation)",
+    "vietnamese": "Xin lỗi, tôi nghĩ là tôi đã bị lạc đường, bạn có thể xem giúp tôi trên bản đồ không?",
+    "acceptedAnswers": [
+      "Excuse me, I think I am lost, could you help me check on the map?",
+      "I think I'm lost, can you help me check this map?"
+    ],
+    "standardEnglish": "Excuse me, I think I am lost, could you help me check on the map?",
+    "hint": "Lạc đường: I think I am lost, could you help me",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic13_01",
+    "topic": "Sân bay & Chuyến bay (Airport & Flying)",
+    "vietnamese": "Làm ơn cho tôi hỏi quầy làm thủ tục cho chuyến bay đi Tokyo ở đâu?",
+    "acceptedAnswers": [
+      "Excuse me, where is the check-in counter for the flight to Tokyo?",
+      "Where can I find the check-in counter for Tokyo?"
+    ],
+    "standardEnglish": "Excuse me, where is the check-in counter for the flight to Tokyo?",
+    "hint": "Quầy thủ tục: check-in counter for the flight to Tokyo",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic13_02",
+    "topic": "Sân bay & Chuyến bay (Airport & Flying)",
+    "vietnamese": "Tôi có thể mang theo hành lý xách tay nặng tối đa bao nhiêu kilôgam?",
+    "acceptedAnswers": [
+      "What is the maximum weight for carry-on baggage I can bring?",
+      "How many kilograms of carry-on luggage are allowed?"
+    ],
+    "standardEnglish": "What is the maximum weight for carry-on baggage I can bring?",
+    "hint": "Hành lý xách tay: maximum weight for carry-on baggage",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic13_03",
+    "topic": "Sân bay & Chuyến bay (Airport & Flying)",
+    "vietnamese": "Chuyến bay của chúng tôi bị hoãn một tiếng do thời tiết xấu tại nơi đến.",
+    "acceptedAnswers": [
+      "Our flight is delayed by one hour due to bad weather at the destination.",
+      "Our flight was delayed an hour because of weather."
+    ],
+    "standardEnglish": "Our flight is delayed by one hour due to bad weather at the destination.",
+    "hint": "Hoãn chuyến: flight is delayed by one hour",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic13_04",
+    "topic": "Sân bay & Chuyến bay (Airport & Flying)",
+    "vietnamese": "Làm ơn cho tôi một chỗ ngồi cạnh cửa sổ nếu máy bay vẫn còn chỗ trống.",
+    "acceptedAnswers": [
+      "Could I have a window seat, please, if there are still seats available?",
+      "Can I get a window seat if available?"
+    ],
+    "standardEnglish": "Could I have a window seat, please, if there are still seats available?",
+    "hint": "Chỗ ngồi: Could I have a window seat, please",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic13_05",
+    "topic": "Sân bay & Chuyến bay (Airport & Flying)",
+    "vietnamese": "Hãy chuẩn bị sẵn hộ chiếu và thẻ lên máy bay khi đến cửa kiểm soát an ninh.",
+    "acceptedAnswers": [
+      "Please have your passport and boarding pass ready when reaching the security checkpoint.",
+      "Get your passport and boarding pass ready for security."
+    ],
+    "standardEnglish": "Please have your passport and boarding pass ready when reaching the security checkpoint.",
+    "hint": "Thủ tục an ninh: passport and boarding pass ready",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic14_01",
+    "topic": "Khách sạn & Lưu trú (Hotel & Accommodation)",
+    "vietnamese": "Tôi muốn làm thủ tục nhận phòng, tôi đã đặt phòng trước dưới tên Nguyễn Văn An.",
+    "acceptedAnswers": [
+      "I would like to check in, I have a reservation under the name Nguyen Van An.",
+      "I'd like to check in, booking under Nguyen Van An."
+    ],
+    "standardEnglish": "I would like to check in, I have a reservation under the name Nguyen Van An.",
+    "hint": "Nhận phòng: check in, I have a reservation under the name",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic14_02",
+    "topic": "Khách sạn & Lưu trú (Hotel & Accommodation)",
+    "vietnamese": "Khách sạn có phục vụ bữa sáng miễn phí không và vào khung giờ nào?",
+    "acceptedAnswers": [
+      "Does the hotel serve complimentary breakfast and during what hours?",
+      "Is breakfast included and what time is it served?"
+    ],
+    "standardEnglish": "Does the hotel serve complimentary breakfast and during what hours?",
+    "hint": "Bữa sáng khách sạn: serve complimentary breakfast",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic14_03",
+    "topic": "Khách sạn & Lưu trú (Hotel & Accommodation)",
+    "vietnamese": "Giờ trả phòng tiêu chuẩn của khách sạn là lúc mấy giờ trưa mai?",
+    "acceptedAnswers": [
+      "What is the standard check-out time of the hotel tomorrow noon?",
+      "What time is check-out tomorrow?"
+    ],
+    "standardEnglish": "What is the standard check-out time of the hotel tomorrow noon?",
+    "hint": "Trả phòng: standard check-out time of the hotel",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic14_04",
+    "topic": "Khách sạn & Lưu trú (Hotel & Accommodation)",
+    "vietnamese": "Làm ơn cho tôi xin mật khẩu kết nối mạng wifi trong phòng.",
+    "acceptedAnswers": [
+      "Could you please give me the wifi password for the room?",
+      "Can I have the in-room wifi password, please?"
+    ],
+    "standardEnglish": "Could you please give me the wifi password for the room?",
+    "hint": "Hỏi wifi: give me the wifi password for the room",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic14_05",
+    "topic": "Khách sạn & Lưu trú (Hotel & Accommodation)",
+    "vietnamese": "Tôi muốn yêu cầu thêm một chiếc khăn tắm và một bộ đồ dùng vệ sinh cá nhân.",
+    "acceptedAnswers": [
+      "I would like to request an extra bath towel and a set of toiletries.",
+      "Can I get an extra towel and toiletries set, please?"
+    ],
+    "standardEnglish": "I would like to request an extra bath towel and a set of toiletries.",
+    "hint": "Yêu cầu đồ: request an extra bath towel and toiletries",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic15_01",
+    "topic": "Giao thông & Xe buýt (Public Transport & Commute)",
+    "vietnamese": "Chuyến xe buýt số mười hai có đi qua trường Đại học Quốc gia không?",
+    "acceptedAnswers": [
+      "Does bus number twelve pass by the National University?",
+      "Does the number 12 bus go to the National University?"
+    ],
+    "standardEnglish": "Does bus number twelve pass by the National University?",
+    "hint": "Hỏi tuyến bus: Does bus number twelve pass by...",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic15_02",
+    "topic": "Giao thông & Xe buýt (Public Transport & Commute)",
+    "vietnamese": "Tôi có thể mua thẻ đi xe buýt tháng ở đâu và cần giấy tờ gì?",
+    "acceptedAnswers": [
+      "Where can I buy a monthly bus pass and what documents do I need?",
+      "Where can I get a monthly transit pass?"
+    ],
+    "standardEnglish": "Where can I buy a monthly bus pass and what documents do I need?",
+    "hint": "Vé tháng: buy a monthly bus pass",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic15_03",
+    "topic": "Giao thông & Xe buýt (Public Transport & Commute)",
+    "vietnamese": "Làm ơn hãy nhường chỗ ngồi ưu tiên này cho phụ nữ mang thai và người cao tuổi.",
+    "acceptedAnswers": [
+      "Please give up this priority seat for pregnant women and the elderly.",
+      "Please offer this seat to elderly or pregnant passengers."
+    ],
+    "standardEnglish": "Please give up this priority seat for pregnant women and the elderly.",
+    "hint": "Chỗ ưu tiên: give up this priority seat for...",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic15_04",
+    "topic": "Giao thông & Xe buýt (Public Transport & Commute)",
+    "vietnamese": "Chuyến xe buýt cuối cùng trong ngày sẽ xuất bến vào lúc mấy giờ đêm?",
+    "acceptedAnswers": [
+      "What time does the last bus of the day depart tonight?",
+      "When is the last bus tonight?"
+    ],
+    "standardEnglish": "What time does the last bus of the day depart tonight?",
+    "hint": "Chuyến cuối: last bus of the day depart tonight",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic15_05",
+    "topic": "Giao thông & Xe buýt (Public Transport & Commute)",
+    "vietnamese": "Trạm dừng tiếp theo của chúng ta là bảo tàng lịch sử thành phố.",
+    "acceptedAnswers": [
+      "Our next stop is the city history museum.",
+      "The next stop is the history museum."
+    ],
+    "standardEnglish": "Our next stop is the city history museum.",
+    "hint": "Trạm tiếp theo: Our next stop is...",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic16_01",
+    "topic": "Đi taxi & Đón xe (Taxi & Ride-Hailing)",
+    "vietnamese": "Làm ơn đưa tôi đến khách sạn Hilton ở trung tâm thành phố.",
+    "acceptedAnswers": [
+      "Please take me to the Hilton Hotel in the city center.",
+      "Take me to the downtown Hilton Hotel, please."
+    ],
+    "standardEnglish": "Please take me to the Hilton Hotel in the city center.",
+    "hint": "Báo điểm đến: Please take me to...",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic16_02",
+    "topic": "Đi taxi & Đón xe (Taxi & Ride-Hailing)",
+    "vietnamese": "Làm phiền tài xế bật đồng hồ tính cước giúp tôi nhé.",
+    "acceptedAnswers": [
+      "Could you please turn on the meter for me, driver?",
+      "Please make sure to run the meter."
+    ],
+    "standardEnglish": "Could you please turn on the meter for me, driver?",
+    "hint": "Đồng hồ cước: turn on the meter for me",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic16_03",
+    "topic": "Đi taxi & Đón xe (Taxi & Ride-Hailing)",
+    "vietnamese": "Tôi đang hơi vội, bạn có thể đi con đường nào tránh kẹt xe được không?",
+    "acceptedAnswers": [
+      "I am in a bit of a hurry, could you take a route that avoids traffic?",
+      "I'm in a rush, can we take a faster route to avoid jams?"
+    ],
+    "standardEnglish": "I am in a bit of a hurry, could you take a route that avoids traffic?",
+    "hint": "Tránh kẹt: take a route that avoids traffic",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic16_04",
+    "topic": "Đi taxi & Đón xe (Taxi & Ride-Hailing)",
+    "vietnamese": "Làm ơn mở giúp tôi cốp xe để tôi cất chiếc vali hành lý to này vào.",
+    "acceptedAnswers": [
+      "Please open the trunk for me so I can put this large suitcase inside.",
+      "Could you open the trunk for my luggage, please?"
+    ],
+    "standardEnglish": "Please open the trunk for me so I can put this large suitcase inside.",
+    "hint": "Cốp xe: open the trunk for me",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic16_05",
+    "topic": "Đi taxi & Đón xe (Taxi & Ride-Hailing)",
+    "vietnamese": "Bạn có thể cho xe dừng lại ở ngay góc ngã tư phía trước được rồi.",
+    "acceptedAnswers": [
+      "You can stop the car right at the corner of the intersection ahead.",
+      "Just drop me off at that corner ahead, please."
+    ],
+    "standardEnglish": "You can stop the car right at the corner of the intersection ahead.",
+    "hint": "Dừng xe: stop the car right at the corner",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic17_01",
+    "topic": "Bãi biển & Nghỉ dưỡng (Beach & Vacation)",
+    "vietnamese": "Đừng quên thoa kem chống nắng trước khi ra bãi biển tắm nhé.",
+    "acceptedAnswers": [
+      "Don't forget to apply sunscreen before going out to swim at the beach.",
+      "Remember to put on sunscreen before hitting the beach."
+    ],
+    "standardEnglish": "Don't forget to apply sunscreen before going out to swim at the beach.",
+    "hint": "Thoa kem chống nắng: apply sunscreen before going out",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic17_02",
+    "topic": "Bãi biển & Nghỉ dưỡng (Beach & Vacation)",
+    "vietnamese": "Bãi biển ở đây thật tuyệt vời với bờ cát trắng mịn và nước biển trong xanh.",
+    "acceptedAnswers": [
+      "The beach here is wonderful with fine white sand and clear blue water.",
+      "This beach is amazing with soft white sand and crystal clear water."
+    ],
+    "standardEnglish": "The beach here is wonderful with fine white sand and clear blue water.",
+    "hint": "Biển đẹp: fine white sand and clear blue water",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic17_03",
+    "topic": "Bãi biển & Nghỉ dưỡng (Beach & Vacation)",
+    "vietnamese": "Chúng ta hãy cùng nhau ngắm nhìn cảnh hoàng hôn tuyệt đẹp trên mặt biển.",
+    "acceptedAnswers": [
+      "Let's watch the gorgeous sunset over the ocean surface together.",
+      "Let's enjoy the stunning sunset over the sea together."
+    ],
+    "standardEnglish": "Let's watch the gorgeous sunset over the ocean surface together.",
+    "hint": "Ngắm hoàng hôn: watch the gorgeous sunset over the ocean",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic17_04",
+    "topic": "Bãi biển & Nghỉ dưỡng (Beach & Vacation)",
+    "vietnamese": "Bạn có muốn thử tham gia trò chơi lướt sóng hoặc dù lượn trên biển không?",
+    "acceptedAnswers": [
+      "Do you want to try surfing or parasailing on the sea?",
+      "Would you like to try surfing or sea paragliding?"
+    ],
+    "standardEnglish": "Do you want to try surfing or parasailing on the sea?",
+    "hint": "Trò chơi biển: try surfing or parasailing on the sea",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic17_05",
+    "topic": "Bãi biển & Nghỉ dưỡng (Beach & Vacation)",
+    "vietnamese": "Hãy chú ý các biển báo an toàn và chỉ bơi trong khu vực có nhân viên cứu hộ.",
+    "acceptedAnswers": [
+      "Pay attention to safety signs and only swim in areas with lifeguards.",
+      "Only swim in zones monitored by lifeguards."
+    ],
+    "standardEnglish": "Pay attention to safety signs and only swim in areas with lifeguards.",
+    "hint": "An toàn: only swim in areas with lifeguards",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic18_01",
+    "topic": "Trải nghiệm văn hóa (Culture & Traditions)",
+    "vietnamese": "Áo dài là trang phục truyền thống duyên dáng và đáng tự hào của phụ nữ Việt Nam.",
+    "acceptedAnswers": [
+      "Ao Dai is the graceful and proud traditional costume of Vietnamese women.",
+      "Ao Dai represents the elegant traditional dress of Vietnamese women."
+    ],
+    "standardEnglish": "Ao Dai is the graceful and proud traditional costume of Vietnamese women.",
+    "hint": "Áo dài: graceful and proud traditional costume",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic18_02",
+    "topic": "Trải nghiệm văn hóa (Culture & Traditions)",
+    "vietnamese": "Chúng tôi đã có một chuyến tham quan rất thú vị tại làng gốm Bát Tràng.",
+    "acceptedAnswers": [
+      "We had a very fascinating tour at the Bat Trang pottery village.",
+      "We enjoyed a great visit to Bat Trang ceramic village."
+    ],
+    "standardEnglish": "We had a very fascinating tour at the Bat Trang pottery village.",
+    "hint": "Làng nghề: fascinating tour at the Bat Trang pottery village",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic18_03",
+    "topic": "Trải nghiệm văn hóa (Culture & Traditions)",
+    "vietnamese": "Màn biểu diễn múa lân truyền thống mang lại không khí vô cùng náo nhiệt và may mắn.",
+    "acceptedAnswers": [
+      "The traditional lion dance performance brings an extremely bustling and lucky atmosphere.",
+      "The lion dance brings a lively and prosperous vibe."
+    ],
+    "standardEnglish": "The traditional lion dance performance brings an extremely bustling and lucky atmosphere.",
+    "hint": "Múa lân: traditional lion dance performance",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic18_04",
+    "topic": "Trải nghiệm văn hóa (Culture & Traditions)",
+    "vietnamese": "Người dân địa phương ở đây luôn chào đón du khách bằng sự thân thiện và hiếu khách.",
+    "acceptedAnswers": [
+      "Local residents here always welcome visitors with friendliness and great hospitality.",
+      "Locals always treat guests with warmth and hospitality."
+    ],
+    "standardEnglish": "Local residents here always welcome visitors with friendliness and great hospitality.",
+    "hint": "Hiếu khách: friendliness and great hospitality",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic18_05",
+    "topic": "Trải nghiệm văn hóa (Culture & Traditions)",
+    "vietnamese": "Tôi rất thích tìm hiểu về lịch sử và các phong tục cổ truyền của vùng đất này.",
+    "acceptedAnswers": [
+      "I love learning about the history and ancient customs of this region.",
+      "I enjoy discovering the local history and ancient traditions."
+    ],
+    "standardEnglish": "I love learning about the history and ancient customs of this region.",
+    "hint": "Phong tục: history and ancient customs of this region",
+    "category": "Du lịch"
+  },
+  {
+    "id": "topic19_01",
+    "topic": "Nhà hàng & Gọi món (Restaurant & Dining)",
+    "vietnamese": "Cho tôi xin xem thực đơn và danh sách đồ uống được không?",
+    "acceptedAnswers": [
+      "Could I have the menu and the drinks list, please?",
+      "Can I see the menu and drinks list, please?"
+    ],
+    "standardEnglish": "Could I have the menu and the drinks list, please?",
+    "hint": "Gọi thực đơn: Could I have the menu and the drinks list",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic19_02",
+    "topic": "Nhà hàng & Gọi món (Restaurant & Dining)",
+    "vietnamese": "Chúng tôi đã đặt trước một bàn dành cho bốn người vào lúc bảy giờ tối.",
+    "acceptedAnswers": [
+      "We have reserved a table for four people at seven PM.",
+      "We booked a table for four at 7 PM."
+    ],
+    "standardEnglish": "We have reserved a table for four people at seven PM.",
+    "hint": "Đặt bàn: reserved a table for four people",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic19_03",
+    "topic": "Nhà hàng & Gọi món (Restaurant & Dining)",
+    "vietnamese": "Tôi muốn gọi món bít tết bò nấu ở mức độ chín vừa.",
+    "acceptedAnswers": [
+      "I would like to order the beef steak cooked medium.",
+      "I'll have the steak cooked medium, please."
+    ],
+    "standardEnglish": "I would like to order the beef steak cooked medium.",
+    "hint": "Độ chín thịt: beef steak cooked medium",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic19_04",
+    "topic": "Nhà hàng & Gọi món (Restaurant & Dining)",
+    "vietnamese": "Món ăn này có chứa đậu phộng không vì tôi bị dị ứng rất nặng?",
+    "acceptedAnswers": [
+      "Does this dish contain peanuts because I have a severe allergy?",
+      "Is there peanut in this dish? I'm severely allergic."
+    ],
+    "standardEnglish": "Does this dish contain peanuts because I have a severe allergy?",
+    "hint": "Dị ứng thực phẩm: contain peanuts... severe allergy",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic19_05",
+    "topic": "Nhà hàng & Gọi món (Restaurant & Dining)",
+    "vietnamese": "Làm ơn cho tôi xin hóa đơn thanh toán và tôi muốn trả bằng thẻ.",
+    "acceptedAnswers": [
+      "Could I have the bill, please, and I would like to pay by card.",
+      "Check please, I'd like to pay with a credit card."
+    ],
+    "standardEnglish": "Could I have the bill, please, and I would like to pay by card.",
+    "hint": "Thanh toán: have the bill, please... pay by card",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic20_01",
+    "topic": "Quán cà phê & Trà (Coffee Shop & Tea)",
+    "vietnamese": "Làm ơn cho tôi một ly cà phê sữa đá truyền thống ít đường.",
+    "acceptedAnswers": [
+      "Could I have a traditional iced milk coffee with less sugar, please?",
+      "Can I get an iced coffee with condensed milk, less sweet please?"
+    ],
+    "standardEnglish": "Could I have a traditional iced milk coffee with less sugar, please?",
+    "hint": "Cà phê sữa đá: traditional iced milk coffee with less sugar",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic20_02",
+    "topic": "Quán cà phê & Trà (Coffee Shop & Tea)",
+    "vietnamese": "Tôi muốn đổi từ sữa bò thông thường sang sữa yến mạch được không?",
+    "acceptedAnswers": [
+      "Could I substitute regular cow milk with oat milk, please?",
+      "Can I swap for oat milk please?"
+    ],
+    "standardEnglish": "Could I substitute regular cow milk with oat milk, please?",
+    "hint": "Đổi sữa: substitute regular cow milk with oat milk",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic20_03",
+    "topic": "Quán cà phê & Trà (Coffee Shop & Tea)",
+    "vietnamese": "Bạn dùng đồ uống này tại quán hay muốn mang đi?",
+    "acceptedAnswers": [
+      "Will you have this drink for here or to go?",
+      "Is that for here or takeaway?"
+    ],
+    "standardEnglish": "Will you have this drink for here or to go?",
+    "hint": "Uống tại quán hay mang đi: for here or to go",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic20_04",
+    "topic": "Quán cà phê & Trà (Coffee Shop & Tea)",
+    "vietnamese": "Quán có ổ cắm điện ở gần bàn góc kia để tôi cắm sạc máy tính xách tay không?",
+    "acceptedAnswers": [
+      "Does the shop have a power outlet near that corner table to plug in my laptop?",
+      "Is there a power socket near that corner table?"
+    ],
+    "standardEnglish": "Does the shop have a power outlet near that corner table to plug in my laptop?",
+    "hint": "Ổ cắm điện: power outlet near that corner table",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic20_05",
+    "topic": "Quán cà phê & Trà (Coffee Shop & Tea)",
+    "vietnamese": "Hương vị của tách trà thảo mộc này rất thơm và giúp dễ ngủ.",
+    "acceptedAnswers": [
+      "The aroma of this herbal tea is very fragrant and helps with sleep.",
+      "This herbal tea smells wonderful and is very soothing."
+    ],
+    "standardEnglish": "The aroma of this herbal tea is very fragrant and helps with sleep.",
+    "hint": "Trà thảo mộc: aroma of this herbal tea is very fragrant",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic21_01",
+    "topic": "Đồ ăn nhanh & Ăn vặt (Fast Food & Street Food)",
+    "vietnamese": "Cho tôi gọi một phần suất ăn combo gồm gà rán giòn và khoai tây chiên cỡ lớn.",
+    "acceptedAnswers": [
+      "Can I get a combo meal with crispy fried chicken and large french fries?",
+      "I'd like a combo with crispy chicken and large fries, please."
+    ],
+    "standardEnglish": "Can I get a combo meal with crispy fried chicken and large french fries?",
+    "hint": "Combo: combo meal with crispy fried chicken and large french fries",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic21_02",
+    "topic": "Đồ ăn nhanh & Ăn vặt (Fast Food & Street Food)",
+    "vietnamese": "Tôi muốn lấy thêm hai gói tương ớt cay và sốt mayonnaise.",
+    "acceptedAnswers": [
+      "I would like to have two extra packets of spicy chili sauce and mayonnaise.",
+      "Could I get extra chili sauce and mayo packets?"
+    ],
+    "standardEnglish": "I would like to have two extra packets of spicy chili sauce and mayonnaise.",
+    "hint": "Nước chấm: extra packets of spicy chili sauce",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic21_03",
+    "topic": "Đồ ăn nhanh & Ăn vặt (Fast Food & Street Food)",
+    "vietnamese": "Đồ ăn đường phố ở Việt Nam rất phong phú, hấp dẫn và giá cả phải chăng.",
+    "acceptedAnswers": [
+      "Street food in Vietnam is very diverse, appealing, and affordable.",
+      "Vietnamese street food is delicious, varied, and reasonably priced."
+    ],
+    "standardEnglish": "Street food in Vietnam is very diverse, appealing, and affordable.",
+    "hint": "Ẩm thực đường phố: diverse, appealing, and affordable",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic21_04",
+    "topic": "Đồ ăn nhanh & Ăn vặt (Fast Food & Street Food)",
+    "vietnamese": "Món ăn vặt này bạn nên thưởng thức khi nó còn đang nóng hổi.",
+    "acceptedAnswers": [
+      "You should enjoy this street snack while it is still piping hot.",
+      "This snack is best eaten piping hot."
+    ],
+    "standardEnglish": "You should enjoy this street snack while it is still piping hot.",
+    "hint": "Ăn nóng: enjoy this street snack while it is still piping hot",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic21_05",
+    "topic": "Đồ ăn nhanh & Ăn vặt (Fast Food & Street Food)",
+    "vietnamese": "Làm ơn cho tôi một cốc nước ngọt không đường và không cho đá.",
+    "acceptedAnswers": [
+      "Could I have a sugar-free soda with no ice, please?",
+      "Can I get a diet soda without ice, please?"
+    ],
+    "standardEnglish": "Could I have a sugar-free soda with no ice, please?",
+    "hint": "Đồ uống: sugar-free soda with no ice, please",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic22_01",
+    "topic": "Mua sắm quần áo (Clothes Shopping)",
+    "vietnamese": "Làm ơn cho tôi hỏi phòng thử đồ ở khu vực nào trong cửa hàng?",
+    "acceptedAnswers": [
+      "Excuse me, where is the fitting room located in the store?",
+      "Where can I find the fitting room in this shop?"
+    ],
+    "standardEnglish": "Excuse me, where is the fitting room located in the store?",
+    "hint": "Phòng thử đồ: where is the fitting room located",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic22_02",
+    "topic": "Mua sắm quần áo (Clothes Shopping)",
+    "vietnamese": "Bạn có chiếc áo len này với kích cỡ lớn hơn hoặc màu sáng hơn không?",
+    "acceptedAnswers": [
+      "Do you have this sweater in a larger size or a lighter color?",
+      "Is this sweater available in a larger size or brighter shade?"
+    ],
+    "standardEnglish": "Do you have this sweater in a larger size or a lighter color?",
+    "hint": "Kích cỡ & màu: larger size or a lighter color",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic22_03",
+    "topic": "Mua sắm quần áo (Clothes Shopping)",
+    "vietnamese": "Chất liệu cotton tự nhiên này khi mặc lên người cảm thấy rất thoáng mát.",
+    "acceptedAnswers": [
+      "This natural cotton fabric feels very breathable when worn.",
+      "This natural cotton material is very airy and comfortable."
+    ],
+    "standardEnglish": "This natural cotton fabric feels very breathable when worn.",
+    "hint": "Chất liệu: natural cotton fabric feels very breathable",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic22_04",
+    "topic": "Mua sắm quần áo (Clothes Shopping)",
+    "vietnamese": "Chiếc váy này hiện đang được giảm giá ba mươi phần trăm trong tuần lễ khuyến mãi.",
+    "acceptedAnswers": [
+      "This dress is currently discounted by thirty percent during the promotion week.",
+      "This dress has a 30% discount during our sale week."
+    ],
+    "standardEnglish": "This dress is currently discounted by thirty percent during the promotion week.",
+    "hint": "Giảm giá: discounted by thirty percent during promotion",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic22_05",
+    "topic": "Mua sắm quần áo (Clothes Shopping)",
+    "vietnamese": "Bộ trang phục này rất vừa vặn và tôn dáng của bạn.",
+    "acceptedAnswers": [
+      "This outfit fits you very well and flatters your figure.",
+      "This outfit looks great on you and fits perfectly."
+    ],
+    "standardEnglish": "This outfit fits you very well and flatters your figure.",
+    "hint": "Khen vừa vặn: fits you very well and flatters your figure",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic23_01",
+    "topic": "Siêu thị & Đi chợ (Supermarket & Groceries)",
+    "vietnamese": "Làm ơn cho tôi hỏi quầy bán sữa tươi và các sản phẩm từ sữa ở lối đi nào?",
+    "acceptedAnswers": [
+      "Excuse me, in which aisle are fresh milk and dairy products located?",
+      "Which aisle can I find fresh milk and dairy items?"
+    ],
+    "standardEnglish": "Excuse me, in which aisle are fresh milk and dairy products located?",
+    "hint": "Hỏi lối đi: in which aisle are... located",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic23_02",
+    "topic": "Siêu thị & Đi chợ (Supermarket & Groceries)",
+    "vietnamese": "Hãy kiểm tra kỹ hạn sử dụng được in trên bao bì trước khi cho vào giỏ hàng.",
+    "acceptedAnswers": [
+      "Please carefully check the expiration date printed on the packaging before putting it into the basket.",
+      "Check the expiry date on the pack before buying."
+    ],
+    "standardEnglish": "Please carefully check the expiration date printed on the packaging before putting it into the basket.",
+    "hint": "Hạn sử dụng: check the expiration date printed on the packaging",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic23_03",
+    "topic": "Siêu thị & Đi chợ (Supermarket & Groceries)",
+    "vietnamese": "Cửa hàng chúng tôi khuyến khích khách hàng tự mang theo túi thân thiện với môi trường.",
+    "acceptedAnswers": [
+      "Our store encourages customers to bring their own eco-friendly bags.",
+      "We encourage shoppers to bring reusable shopping bags."
+    ],
+    "standardEnglish": "Our store encourages customers to bring their own eco-friendly bags.",
+    "hint": "Túi bảo vệ môi trường: bring their own eco-friendly bags",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic23_04",
+    "topic": "Siêu thị & Đi chợ (Supermarket & Groceries)",
+    "vietnamese": "Bạn có thẻ thành viên thân thiết để được tích điểm giảm giá không?",
+    "acceptedAnswers": [
+      "Do you have a loyalty membership card to earn reward points?",
+      "Do you have a loyalty card for points?"
+    ],
+    "standardEnglish": "Do you have a loyalty membership card to earn reward points?",
+    "hint": "Thẻ thành viên: loyalty membership card to earn reward points",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic23_05",
+    "topic": "Siêu thị & Đi chợ (Supermarket & Groceries)",
+    "vietnamese": "Tổng số tiền thanh toán của bạn hết hai trăm năm mươi nghìn đồng.",
+    "acceptedAnswers": [
+      "Your total payment comes to two hundred and fifty thousand dong.",
+      "Your total is 250,000 VND."
+    ],
+    "standardEnglish": "Your total payment comes to two hundred and fifty thousand dong.",
+    "hint": "Tổng tiền: total payment comes to...",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic24_01",
+    "topic": "Mặc cả & Trả giá (Bargaining & Discounts)",
+    "vietnamese": "Mức giá này hơi đắt so với dự tính của tôi, bạn có thể bớt một chút được không?",
+    "acceptedAnswers": [
+      "This price is a bit too high for my budget, could you lower it a little?",
+      "That's a bit pricey, can you give me a better deal?"
+    ],
+    "standardEnglish": "This price is a bit too high for my budget, could you lower it a little?",
+    "hint": "Trả giá: a bit too high for my budget, could you lower it",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic24_02",
+    "topic": "Mặc cả & Trả giá (Bargaining & Discounts)",
+    "vietnamese": "Nếu tôi mua cả ba món đồ này cùng một lúc thì bạn giảm giá bao nhiêu?",
+    "acceptedAnswers": [
+      "If I buy all three of these items at once, how much discount can you give?",
+      "How much off if I buy all three items?"
+    ],
+    "standardEnglish": "If I buy all three of these items at once, how much discount can you give?",
+    "hint": "Mua nhiều: buy all three of these items at once",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic24_03",
+    "topic": "Mặc cả & Trả giá (Bargaining & Discounts)",
+    "vietnamese": "Tôi là khách quen thường xuyên mua hàng ở đây, hãy để cho tôi giá tốt nhất nhé.",
+    "acceptedAnswers": [
+      "I am a regular customer here, please give me the best possible price.",
+      "I'm a regular shopper here, can you give me your best price?"
+    ],
+    "standardEnglish": "I am a regular customer here, please give me the best possible price.",
+    "hint": "Khách quen: regular customer here, please give me the best price",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic24_04",
+    "topic": "Mặc cả & Trả giá (Bargaining & Discounts)",
+    "vietnamese": "Đây là mức giá cuối cùng mà tôi có thể bán cho bạn rồi đấy.",
+    "acceptedAnswers": [
+      "This is the lowest final price that I can offer you.",
+      "This is the absolute best price I can give you."
+    ],
+    "standardEnglish": "This is the lowest final price that I can offer you.",
+    "hint": "Giá chốt: lowest final price that I can offer you",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic24_05",
+    "topic": "Mặc cả & Trả giá (Bargaining & Discounts)",
+    "vietnamese": "Được rồi, chúng ta đồng ý với mức giá này và chốt giao dịch nhé.",
+    "acceptedAnswers": [
+      "Alright, we agree on this price and let's close the deal.",
+      "Okay, deal! Let's shake hands on this price."
+    ],
+    "standardEnglish": "Alright, we agree on this price and let's close the deal.",
+    "hint": "Chốt đơn: agree on this price and close the deal",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic25_01",
+    "topic": "Đổi trả hàng & Hóa đơn (Returns & Refunds)",
+    "vietnamese": "Tôi muốn đổi chiếc áo này lấy một kích cỡ khác vì mặc không vừa.",
+    "acceptedAnswers": [
+      "I would like to exchange this shirt for another size because it doesn't fit.",
+      "I want to swap this shirt for a different size, it's not fitting."
+    ],
+    "standardEnglish": "I would like to exchange this shirt for another size because it doesn't fit.",
+    "hint": "Đổi hàng: exchange this shirt for another size",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic25_02",
+    "topic": "Đổi trả hàng & Hóa đơn (Returns & Refunds)",
+    "vietnamese": "Sản phẩm này bị lỗi ở đường may, tôi có thể yêu cầu hoàn tiền được không?",
+    "acceptedAnswers": [
+      "This product is defective at the seam, can I request a refund?",
+      "There is a flaw in the stitching, could I get a refund?"
+    ],
+    "standardEnglish": "This product is defective at the seam, can I request a refund?",
+    "hint": "Hàng lỗi: defective at the seam, can I request a refund",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic25_03",
+    "topic": "Đổi trả hàng & Hóa đơn (Returns & Refunds)",
+    "vietnamese": "Làm ơn xuất trình hóa đơn mua hàng gốc còn nguyên vẹn khi làm thủ tục đổi trả.",
+    "acceptedAnswers": [
+      "Please present the original intact purchase receipt when doing the return.",
+      "Please show your original receipt for returns and exchanges."
+    ],
+    "standardEnglish": "Please present the original intact purchase receipt when doing the return.",
+    "hint": "Hóa đơn: present the original intact purchase receipt",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic25_04",
+    "topic": "Đổi trả hàng & Hóa đơn (Returns & Refunds)",
+    "vietnamese": "Cửa hàng chấp nhận đổi trả hàng miễn phí trong vòng bảy ngày kể từ ngày mua.",
+    "acceptedAnswers": [
+      "The store accepts free returns and exchanges within seven days of purchase.",
+      "You can return items within 7 days with receipt."
+    ],
+    "standardEnglish": "The store accepts free returns and exchanges within seven days of purchase.",
+    "hint": "Thời hạn: free returns and exchanges within seven days",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic25_05",
+    "topic": "Đổi trả hàng & Hóa đơn (Returns & Refunds)",
+    "vietnamese": "Sản phẩm cần phải giữ nguyên tem mác và chưa qua giặt tẩy.",
+    "acceptedAnswers": [
+      "The product must keep its original tags attached and not have been washed.",
+      "Items must be unwashed and have original tags on."
+    ],
+    "standardEnglish": "The product must keep its original tags attached and not have been washed.",
+    "hint": "Điều kiện đổi trả: original tags attached and not washed",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic26_01",
+    "topic": "Ngân hàng & Tiền tệ (Banking & Money)",
+    "vietnamese": "Tôi muốn mở một tài khoản ngân hàng mới và đăng ký dịch vụ ngân hàng điện tử.",
+    "acceptedAnswers": [
+      "I would like to open a new bank account and register for online banking.",
+      "I want to open an account and set up mobile banking."
+    ],
+    "standardEnglish": "I would like to open a new bank account and register for online banking.",
+    "hint": "Mở tài khoản: open a new bank account and register",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic26_02",
+    "topic": "Ngân hàng & Tiền tệ (Banking & Money)",
+    "vietnamese": "Bạn có thể cho tôi biết tỷ giá hối đoái hôm nay từ Đô la Mỹ sang Đồng Việt Nam không?",
+    "acceptedAnswers": [
+      "Could you tell me today's exchange rate from US Dollars to Vietnamese Dong?",
+      "What is the USD to VND exchange rate today?"
+    ],
+    "standardEnglish": "Could you tell me today's exchange rate from US Dollars to Vietnamese Dong?",
+    "hint": "Tỷ giá: exchange rate from US Dollars to Vietnamese Dong",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic26_03",
+    "topic": "Ngân hàng & Tiền tệ (Banking & Money)",
+    "vietnamese": "Cây rút tiền ATM gần nhất ở đâu và có hoạt động hai mươi tư trên bảy không?",
+    "acceptedAnswers": [
+      "Where is the nearest ATM and is it operational twenty-four seven?",
+      "Where is the closest ATM and is it open 24/7?"
+    ],
+    "standardEnglish": "Where is the nearest ATM and is it operational twenty-four seven?",
+    "hint": "Rút tiền: nearest ATM and is it operational 24/7",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic26_04",
+    "topic": "Ngân hàng & Tiền tệ (Banking & Money)",
+    "vietnamese": "Lãi suất tiết kiệm kỳ hạn mười hai tháng hiện tại là bao nhiêu phần trăm một năm?",
+    "acceptedAnswers": [
+      "What is the current savings interest rate for a twelve-month term per year?",
+      "What is the 12-month savings interest rate?"
+    ],
+    "standardEnglish": "What is the current savings interest rate for a twelve-month term per year?",
+    "hint": "Lãi suất: savings interest rate for a twelve-month term",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic26_05",
+    "topic": "Ngân hàng & Tiền tệ (Banking & Money)",
+    "vietnamese": "Hãy nhớ không bao giờ chia sẻ mã PIN hoặc mã xác thực OTP cho bất kỳ ai.",
+    "acceptedAnswers": [
+      "Remember never to share your PIN or OTP verification code with anyone.",
+      "Never disclose your PIN or OTP code to anyone."
+    ],
+    "standardEnglish": "Remember never to share your PIN or OTP verification code with anyone.",
+    "hint": "Bảo mật: never share your PIN or OTP code",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic27_01",
+    "topic": "Bưu điện & Giao hàng (Post Office & Delivery)",
+    "vietnamese": "Tôi muốn gửi bưu phẩm này đến Đà Nẵng bằng dịch vụ chuyển phát nhanh.",
+    "acceptedAnswers": [
+      "I want to send this parcel to Da Nang via express delivery service.",
+      "I'd like to mail this package to Da Nang by express post."
+    ],
+    "standardEnglish": "I want to send this parcel to Da Nang via express delivery service.",
+    "hint": "Chuyển phát nhanh: send this parcel via express delivery service",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic27_02",
+    "topic": "Bưu điện & Giao hàng (Post Office & Delivery)",
+    "vietnamese": "Mất khoảng bao nhiêu ngày thì người nhận có thể nhận được kiện hàng này?",
+    "acceptedAnswers": [
+      "Approximately how many days will it take for the recipient to receive this package?",
+      "How long will this delivery take to arrive?"
+    ],
+    "standardEnglish": "Approximately how many days will it take for the recipient to receive this package?",
+    "hint": "Thời gian giao: how many days will it take for the recipient",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic27_03",
+    "topic": "Bưu điện & Giao hàng (Post Office & Delivery)",
+    "vietnamese": "Làm ơn ghi rõ họ tên, số điện thoại và địa chỉ của người nhận lên phiếu gửi.",
+    "acceptedAnswers": [
+      "Please clearly write the recipient's full name, phone number, and address on the dispatch slip.",
+      "Fill in the recipient's name, phone, and address clearly."
+    ],
+    "standardEnglish": "Please clearly write the recipient's full name, phone number, and address on the dispatch slip.",
+    "hint": "Địa chỉ nhận: clearly write the recipient's full name and address",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic27_04",
+    "topic": "Bưu điện & Giao hàng (Post Office & Delivery)",
+    "vietnamese": "Đây là mã theo dõi giúp bạn tra cứu tình trạng vận chuyển của đơn hàng trực tuyến.",
+    "acceptedAnswers": [
+      "Here is the tracking number to help you check the shipment status online.",
+      "This is your tracking number to trace your package online."
+    ],
+    "standardEnglish": "Here is the tracking number to help you check the shipment status online.",
+    "hint": "Mã theo dõi: tracking number to help you check status",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic27_05",
+    "topic": "Bưu điện & Giao hàng (Post Office & Delivery)",
+    "vietnamese": "Những vật dụng dễ vỡ cần được bọc kỹ bằng màng xốp chống sốc trước khi gửi.",
+    "acceptedAnswers": [
+      "Fragile items must be wrapped carefully with bubble wrap before mailing.",
+      "Wrap fragile goods securely in bubble wrap."
+    ],
+    "standardEnglish": "Fragile items must be wrapped carefully with bubble wrap before mailing.",
+    "hint": "Đồ dễ vỡ: Fragile items must be wrapped with bubble wrap",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic28_01",
+    "topic": "Cắt tóc & Làm đẹp (Hair Salon & Beauty)",
+    "vietnamese": "Tôi muốn cắt tỉa bớt phần đuôi tóc chẻ ngọn và giữ nguyên độ dài này.",
+    "acceptedAnswers": [
+      "I want to trim the split ends and keep this overall length.",
+      "Just trim the split ends for me and keep the length, please."
+    ],
+    "standardEnglish": "I want to trim the split ends and keep this overall length.",
+    "hint": "Cắt tỉa: trim the split ends and keep this length",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic28_02",
+    "topic": "Cắt tóc & Làm đẹp (Hair Salon & Beauty)",
+    "vietnamese": "Bạn có thể tư vấn cho tôi kiểu tóc nào phù hợp nhất với khuôn mặt tròn không?",
+    "acceptedAnswers": [
+      "Could you advise me on which hairstyle suits a round face best?",
+      "What haircut would look good with my round face?"
+    ],
+    "standardEnglish": "Could you advise me on which hairstyle suits a round face best?",
+    "hint": "Tư vấn kiểu tóc: which hairstyle suits a round face best",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic28_03",
+    "topic": "Cắt tóc & Làm đẹp (Hair Salon & Beauty)",
+    "vietnamese": "Tôi muốn nhuộm tóc màu nâu trầm tự nhiên và uốn xoăn sóng nhẹ nhàng.",
+    "acceptedAnswers": [
+      "I would like to dye my hair a natural dark brown and get gentle wavy curls.",
+      "I'd like a subtle brown dye and soft waves."
+    ],
+    "standardEnglish": "I would like to dye my hair a natural dark brown and get gentle wavy curls.",
+    "hint": "Nhuộm & uốn: dye my hair natural dark brown and get gentle waves",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic28_04",
+    "topic": "Cắt tóc & Làm đẹp (Hair Salon & Beauty)",
+    "vietnamese": "Dịch vụ gội đầu dưỡng sinh kết hợp massage vai gáy ở đây rất thư giãn.",
+    "acceptedAnswers": [
+      "The herbal hair wash combined with shoulder massage here is very relaxing.",
+      "The head spa and neck massage here are wonderfully relaxing."
+    ],
+    "standardEnglish": "The herbal hair wash combined with shoulder massage here is very relaxing.",
+    "hint": "Gội đầu dưỡng sinh: herbal hair wash combined with shoulder massage",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic28_05",
+    "topic": "Cắt tóc & Làm đẹp (Hair Salon & Beauty)",
+    "vietnamese": "Tôi đã đặt lịch hẹn trước với chuyên gia tạo mẫu tóc vào lúc ba giờ chiều nay.",
+    "acceptedAnswers": [
+      "I have booked an appointment in advance with the hairstylist at three PM today.",
+      "I have an appointment with the stylist at 3 PM."
+    ],
+    "standardEnglish": "I have booked an appointment in advance with the hairstylist at three PM today.",
+    "hint": "Đặt lịch: booked an appointment in advance with the hairstylist",
+    "category": "Ẩm thực & Mua sắm"
+  },
+  {
+    "id": "topic29_01",
+    "topic": "Công việc văn phòng (Office & Work Routine)",
+    "vietnamese": "Cuộc họp giao ban đầu tuần sẽ diễn ra vào lúc chín giờ sáng tại phòng họp lớn.",
+    "acceptedAnswers": [
+      "The weekly briefing meeting will take place at nine AM in the main conference room.",
+      "Our Monday briefing starts at 9 AM in the large conference room."
+    ],
+    "standardEnglish": "The weekly briefing meeting will take place at nine AM in the main conference room.",
+    "hint": "Họp đầu tuần: weekly briefing meeting will take place at 9 AM",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic29_02",
+    "topic": "Công việc văn phòng (Office & Work Routine)",
+    "vietnamese": "Bạn có thể hướng dẫn tôi cách sử dụng chiếc máy in đa năng này được không?",
+    "acceptedAnswers": [
+      "Could you show me how to use this multifunction printer?",
+      "Can you show me how this printer works?"
+    ],
+    "standardEnglish": "Could you show me how to use this multifunction printer?",
+    "hint": "Dùng máy in: show me how to use this multifunction printer",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic29_03",
+    "topic": "Công việc văn phòng (Office & Work Routine)",
+    "vietnamese": "Tôi cần tập trung hoàn thành bản báo cáo tài chính trước khi hết giờ làm việc hôm nay.",
+    "acceptedAnswers": [
+      "I need to focus on finishing the financial report before the end of the workday today.",
+      "I must finish this financial report before leaving today."
+    ],
+    "standardEnglish": "I need to focus on finishing the financial report before the end of the workday today.",
+    "hint": "Báo cáo: focus on finishing the financial report before the end of workday",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic29_04",
+    "topic": "Công việc văn phòng (Office & Work Routine)",
+    "vietnamese": "Công ty chúng tôi luôn khuyến khích việc duy trì sự cân bằng giữa công việc và cuộc sống.",
+    "acceptedAnswers": [
+      "Our company always encourages maintaining a healthy work-life balance.",
+      "We emphasize a healthy work-life balance here."
+    ],
+    "standardEnglish": "Our company always encourages maintaining a healthy work-life balance.",
+    "hint": "Cân bằng: maintaining a healthy work-life balance",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic29_05",
+    "topic": "Công việc văn phòng (Office & Work Routine)",
+    "vietnamese": "Mọi người thường cùng nhau ra ngoài ăn trưa và trò chuyện vào lúc mười hai giờ.",
+    "acceptedAnswers": [
+      "Everyone usually goes out for lunch and chats together at twelve o'clock.",
+      "We usually grab lunch together around noon."
+    ],
+    "standardEnglish": "Everyone usually goes out for lunch and chats together at twelve o'clock.",
+    "hint": "Giờ ăn trưa: goes out for lunch and chats together at twelve",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic30_01",
+    "topic": "Phỏng vấn xin việc (Job Interview)",
+    "vietnamese": "Hãy chia sẻ về điểm mạnh lớn nhất giúp bạn tự tin ứng tuyển vào vị trí này.",
+    "acceptedAnswers": [
+      "Please share the greatest strength that makes you confident in applying for this position.",
+      "What is your biggest strength for this role?"
+    ],
+    "standardEnglish": "Please share the greatest strength that makes you confident in applying for this position.",
+    "hint": "Điểm mạnh: greatest strength that makes you confident in applying",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic30_02",
+    "topic": "Phỏng vấn xin việc (Job Interview)",
+    "vietnamese": "Tôi có ba năm kinh nghiệm làm việc trong lĩnh vực tiếp thị số và truyền thông.",
+    "acceptedAnswers": [
+      "I have three years of work experience in digital marketing and communications.",
+      "I have 3 years of experience in digital marketing."
+    ],
+    "standardEnglish": "I have three years of work experience in digital marketing and communications.",
+    "hint": "Kinh nghiệm: three years of work experience in digital marketing",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic30_03",
+    "topic": "Phỏng vấn xin việc (Job Interview)",
+    "vietnamese": "Làm thế nào bạn giải quyết mâu thuẫn khi làm việc nhóm với đồng nghiệp?",
+    "acceptedAnswers": [
+      "How do you resolve conflicts when working in a team with colleagues?",
+      "How do you handle disagreements within a team?"
+    ],
+    "standardEnglish": "How do you resolve conflicts when working in a team with colleagues?",
+    "hint": "Giải quyết mâu thuẫn: resolve conflicts when working in a team",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic30_04",
+    "topic": "Phỏng vấn xin việc (Job Interview)",
+    "vietnamese": "Mục tiêu nghề nghiệp dài hạn của tôi là trở thành một người quản lý dự án xuất sắc.",
+    "acceptedAnswers": [
+      "My long-term career goal is to become an outstanding project manager.",
+      "My career goal is to become a top-tier project manager."
+    ],
+    "standardEnglish": "My long-term career goal is to become an outstanding project manager.",
+    "hint": "Mục tiêu: long-term career goal is to become...",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic30_05",
+    "topic": "Phỏng vấn xin việc (Job Interview)",
+    "vietnamese": "Chúng tôi sẽ thông báo kết quả phỏng vấn chính thức qua thư điện tử vào cuối tuần này.",
+    "acceptedAnswers": [
+      "We will notify the official interview results via email by the end of this week.",
+      "We will email you the interview results by Friday."
+    ],
+    "standardEnglish": "We will notify the official interview results via email by the end of this week.",
+    "hint": "Kết quả phỏng vấn: notify the official interview results via email",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic31_01",
+    "topic": "Cuộc họp & Thảo luận (Meetings & Discussions)",
+    "vietnamese": "Chúng ta hãy cùng nhìn vào nội dung cuộc họp đã được gửi trước trong email.",
+    "acceptedAnswers": [
+      "Let's look at the meeting agenda that was sent earlier via email.",
+      "Let's review the agenda sent in advance by email."
+    ],
+    "standardEnglish": "Let's look at the meeting agenda that was sent earlier via email.",
+    "hint": "Nội dung họp: look at the meeting agenda",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic31_02",
+    "topic": "Cuộc họp & Thảo luận (Meetings & Discussions)",
+    "vietnamese": "Làm ơn hãy tắt micro khi bạn không phát biểu để tránh tiếng ồn xung quanh.",
+    "acceptedAnswers": [
+      "Please mute your microphone when not speaking to avoid background noise.",
+      "Please stay on mute when not speaking."
+    ],
+    "standardEnglish": "Please mute your microphone when not speaking to avoid background noise.",
+    "hint": "Tắt mic: mute your microphone when not speaking",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic31_03",
+    "topic": "Cuộc họp & Thảo luận (Meetings & Discussions)",
+    "vietnamese": "Tôi muốn bổ sung thêm một ý kiến quan trọng liên quan đến ngân sách dự án.",
+    "acceptedAnswers": [
+      "I would like to add an important point regarding the project budget.",
+      "I'd like to add a key comment on the budget."
+    ],
+    "standardEnglish": "I would like to add an important point regarding the project budget.",
+    "hint": "Bổ sung ý kiến: add an important point regarding the budget",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic31_04",
+    "topic": "Cuộc họp & Thảo luận (Meetings & Discussions)",
+    "vietnamese": "Ai sẽ là người phụ trách việc ghi chép biên bản cuộc họp ngày hôm nay?",
+    "acceptedAnswers": [
+      "Who will be in charge of taking the meeting minutes today?",
+      "Who is responsible for the minutes today?"
+    ],
+    "standardEnglish": "Who will be in charge of taking the meeting minutes today?",
+    "hint": "Biên bản họp: in charge of taking the meeting minutes",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic31_05",
+    "topic": "Cuộc họp & Thảo luận (Meetings & Discussions)",
+    "vietnamese": "Chúng ta đã thống nhất được phương án triển khai tốt nhất cho quý tới.",
+    "acceptedAnswers": [
+      "We have agreed on the best implementation plan for the next quarter.",
+      "We've aligned on the implementation plan for next quarter."
+    ],
+    "standardEnglish": "We have agreed on the best implementation plan for the next quarter.",
+    "hint": "Thống nhất: agreed on the best implementation plan",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic32_01",
+    "topic": "Thuyết trình công việc (Work Presentations)",
+    "vietnamese": "Xin chào tất cả mọi người, hôm nay tôi rất vinh dự được trình bày về chiến lược sản phẩm mới.",
+    "acceptedAnswers": [
+      "Good morning everyone, today I am honored to present our new product strategy.",
+      "Hello everyone, it's my honor to present the new strategy today."
+    ],
+    "standardEnglish": "Good morning everyone, today I am honored to present our new product strategy.",
+    "hint": "Mở đầu thuyết trình: honored to present our new product strategy",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic32_02",
+    "topic": "Thuyết trình công việc (Work Presentations)",
+    "vietnamese": "Như các bạn có thể thấy rõ trên biểu đồ tăng trưởng, doanh thu quý này tăng hai mươi phần trăm.",
+    "acceptedAnswers": [
+      "As you can clearly see on the growth chart, this quarter's revenue increased by twenty percent.",
+      "As shown on the chart, revenue grew by 20% this quarter."
+    ],
+    "standardEnglish": "As you can clearly see on the growth chart, this quarter's revenue increased by twenty percent.",
+    "hint": "Biểu đồ: clearly see on the growth chart",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic32_03",
+    "topic": "Thuyết trình công việc (Work Presentations)",
+    "vietnamese": "Bây giờ chúng ta sẽ chuyển sang phần quan trọng nhất của bài báo cáo này.",
+    "acceptedAnswers": [
+      "Now we will move on to the most crucial part of this report.",
+      "Let's move to the most important part of the presentation."
+    ],
+    "standardEnglish": "Now we will move on to the most crucial part of this report.",
+    "hint": "Chuyển ý: move on to the most crucial part of this report",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic32_04",
+    "topic": "Thuyết trình công việc (Work Presentations)",
+    "vietnamese": "Nếu quý vị có bất kỳ câu hỏi nào, xin vui lòng giữ lại đến phần hỏi đáp cuối buổi.",
+    "acceptedAnswers": [
+      "If you have any questions, please save them for the Q&A session at the end.",
+      "Please hold questions until our Q&A session at the end."
+    ],
+    "standardEnglish": "If you have any questions, please save them for the Q&A session at the end.",
+    "hint": "Hỏi đáp: save them for the Q&A session at the end",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic32_05",
+    "topic": "Thuyết trình công việc (Work Presentations)",
+    "vietnamese": "Tóm lại, thông điệp chính mà tôi muốn gửi gắm là đổi mới sáng tạo không ngừng.",
+    "acceptedAnswers": [
+      "To sum up, the key takeaway I want to convey is continuous innovation.",
+      "In conclusion, continuous innovation is our core message."
+    ],
+    "standardEnglish": "To sum up, the key takeaway I want to convey is continuous innovation.",
+    "hint": "Kết luận: key takeaway I want to convey is continuous innovation",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic33_01",
+    "topic": "Viết email công việc (Business Emails)",
+    "vietnamese": "Tôi viết email này để cập nhật tiến độ công việc mới nhất của dự án chúng ta.",
+    "acceptedAnswers": [
+      "I am writing this email to update the latest progress of our project.",
+      "I'm writing to share the latest project progress with you."
+    ],
+    "standardEnglish": "I am writing this email to update the latest progress of our project.",
+    "hint": "Mục đích thư: writing this email to update the latest progress",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic33_02",
+    "topic": "Viết email công việc (Business Emails)",
+    "vietnamese": "Làm ơn vui lòng xem tệp tài liệu đính kèm để biết thêm thông tin chi tiết.",
+    "acceptedAnswers": [
+      "Please kindly find the attached document for more detailed information.",
+      "Please see the attached file for further details."
+    ],
+    "standardEnglish": "Please kindly find the attached document for more detailed information.",
+    "hint": "Tệp đính kèm: find the attached document for more detailed information",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic33_03",
+    "topic": "Viết email công việc (Business Emails)",
+    "vietnamese": "Tôi rất mong nhận được phản hồi quý báu từ phía công ty bạn trong thời gian sớm nhất.",
+    "acceptedAnswers": [
+      "I look forward to receiving your valuable feedback at your earliest convenience.",
+      "Looking forward to your prompt reply."
+    ],
+    "standardEnglish": "I look forward to receiving your valuable feedback at your earliest convenience.",
+    "hint": "Mong phản hồi: look forward to receiving your valuable feedback",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic33_04",
+    "topic": "Viết email công việc (Business Emails)",
+    "vietnamese": "Xin lỗi vì sự phản hồi chậm trễ do tôi phải đi công tác đột xuất vào đầu tuần.",
+    "acceptedAnswers": [
+      "Apologies for the delayed response as I had an urgent business trip earlier this week.",
+      "Sorry for the late reply due to an urgent business trip."
+    ],
+    "standardEnglish": "Apologies for the delayed response as I had an urgent business trip earlier this week.",
+    "hint": "Xin lỗi trễ thư: Apologies for the delayed response",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic33_05",
+    "topic": "Viết email công việc (Business Emails)",
+    "vietnamese": "Nếu bạn cần thêm bất kỳ sự hỗ trợ nào, xin đừng ngần ngại liên hệ lại với tôi.",
+    "acceptedAnswers": [
+      "If you require any further assistance, please do not hesitate to contact me.",
+      "Feel free to reach out if you need anything else."
+    ],
+    "standardEnglish": "If you require any further assistance, please do not hesitate to contact me.",
+    "hint": "Kết thư lịch sự: do not hesitate to contact me",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic34_01",
+    "topic": "Đàm phán kinh doanh (Business Negotiations)",
+    "vietnamese": "Mục tiêu của chúng tôi trong buổi làm việc hôm nay là đạt được thỏa thuận đôi bên cùng có lợi.",
+    "acceptedAnswers": [
+      "Our goal in today's session is to reach a mutually beneficial win-win agreement.",
+      "We aim for a win-win partnership today."
+    ],
+    "standardEnglish": "Our goal in today's session is to reach a mutually beneficial win-win agreement.",
+    "hint": "Đôi bên cùng có lợi: reach a mutually beneficial win-win agreement",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic34_02",
+    "topic": "Đàm phán kinh doanh (Business Negotiations)",
+    "vietnamese": "Chúng tôi đề xuất mức chiết khấu mười lăm phần trăm nếu quý vị thanh toán trước hạn.",
+    "acceptedAnswers": [
+      "We propose a fifteen percent discount if you make early payment.",
+      "We offer a 15% discount for early settlement."
+    ],
+    "standardEnglish": "We propose a fifteen percent discount if you make early payment.",
+    "hint": "Chiết khấu: propose a fifteen percent discount",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic34_03",
+    "topic": "Đàm phán kinh doanh (Business Negotiations)",
+    "vietnamese": "Cả hai bên cần phải có những nhượng bộ hợp lý để thu hẹp khoảng cách bất đồng.",
+    "acceptedAnswers": [
+      "Both sides need to make reasonable concessions to bridge the gap of disagreement.",
+      "Both parties must compromise to close the gap."
+    ],
+    "standardEnglish": "Both sides need to make reasonable concessions to bridge the gap of disagreement.",
+    "hint": "Nhượng bộ: make reasonable concessions to bridge the gap",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic34_04",
+    "topic": "Đàm phán kinh doanh (Business Negotiations)",
+    "vietnamese": "Sau khi xem xét kỹ lưỡng, chúng tôi hoàn toàn đồng ý với các điều khoản sửa đổi này.",
+    "acceptedAnswers": [
+      "After careful review, we completely agree with these amended terms.",
+      "We are happy with the revised terms after careful consideration."
+    ],
+    "standardEnglish": "After careful review, we completely agree with these amended terms.",
+    "hint": "Đồng ý điều khoản: completely agree with these amended terms",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic34_05",
+    "topic": "Đàm phán kinh doanh (Business Negotiations)",
+    "vietnamese": "Chúng ta sẽ tiến hành ký kết hợp đồng chính thức vào sáng thứ Sáu tuần này.",
+    "acceptedAnswers": [
+      "We will proceed with the official contract signing this Friday morning.",
+      "We will officially sign the contract on Friday morning."
+    ],
+    "standardEnglish": "We will proceed with the official contract signing this Friday morning.",
+    "hint": "Ký hợp đồng: proceed with the official contract signing",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic35_01",
+    "topic": "Chăm sóc khách hàng (Customer Service)",
+    "vietnamese": "Cảm ơn bạn đã liên hệ với bộ phận hỗ trợ khách hàng của chúng tôi, tôi có thể giúp gì cho bạn?",
+    "acceptedAnswers": [
+      "Thank you for contacting our customer support, how may I assist you today?",
+      "Thanks for reaching customer care, how can I help you?"
+    ],
+    "standardEnglish": "Thank you for contacting our customer support, how may I assist you today?",
+    "hint": "Chào khách hàng: how may I assist you today",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic35_02",
+    "topic": "Chăm sóc khách hàng (Customer Service)",
+    "vietnamese": "Chúng tôi vô cùng xin lỗi vì sự bất tiện mà bạn đã phải trải qua với dịch vụ này.",
+    "acceptedAnswers": [
+      "We sincerely apologize for the inconvenience you experienced with this service.",
+      "We are very sorry for the inconvenience caused."
+    ],
+    "standardEnglish": "We sincerely apologize for the inconvenience you experienced with this service.",
+    "hint": "Xin lỗi khách hàng: sincerely apologize for the inconvenience",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic35_03",
+    "topic": "Chăm sóc khách hàng (Customer Service)",
+    "vietnamese": "Vấn đề kỹ thuật của bạn đã được ghi nhận và chuyển cho đội ngũ kỹ thuật xử lý ngay.",
+    "acceptedAnswers": [
+      "Your technical issue has been recorded and forwarded to the technical team right away.",
+      "Your ticket has been escalated to tech support."
+    ],
+    "standardEnglish": "Your technical issue has been recorded and forwarded to the technical team right away.",
+    "hint": "Xử lý sự cố: recorded and forwarded to the technical team",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic35_04",
+    "topic": "Chăm sóc khách hàng (Customer Service)",
+    "vietnamese": "Sự hài lòng và tin tưởng của khách hàng luôn là ưu tiên hàng đầu của chúng tôi.",
+    "acceptedAnswers": [
+      "Customer satisfaction and trust are always our top priorities.",
+      "Customer happiness is always our highest priority."
+    ],
+    "standardEnglish": "Customer satisfaction and trust are always our top priorities.",
+    "hint": "Ưu tiên: Customer satisfaction is our top priority",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic35_05",
+    "topic": "Chăm sóc khách hàng (Customer Service)",
+    "vietnamese": "Làm ơn dành một phút để đánh giá mức độ hài lòng về chất lượng phục vụ của tôi nhé.",
+    "acceptedAnswers": [
+      "Please take a minute to rate your satisfaction with the quality of my service.",
+      "Could you spare a minute to rate our support today?"
+    ],
+    "standardEnglish": "Please take a minute to rate your satisfaction with the quality of my service.",
+    "hint": "Đánh giá dịch vụ: rate your satisfaction with my service",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic36_01",
+    "topic": "Quản lý dự án (Project Management)",
+    "vietnamese": "Chúng ta cần đảm bảo rằng tất cả các đầu việc đều hoàn thành đúng thời hạn cam kết.",
+    "acceptedAnswers": [
+      "We must ensure that all tasks are completed on the committed timeline.",
+      "We need to make sure every task meets its deadline."
+    ],
+    "standardEnglish": "We must ensure that all tasks are completed on the committed timeline.",
+    "hint": "Đúng hạn: all tasks are completed on the committed timeline",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic36_02",
+    "topic": "Quản lý dự án (Project Management)",
+    "vietnamese": "Cột mốc quan trọng tiếp theo của dự án là hoàn thành giai đoạn thử nghiệm người dùng.",
+    "acceptedAnswers": [
+      "The next key milestone of the project is finishing the user testing phase.",
+      "Our next milestone is completing user acceptance testing."
+    ],
+    "standardEnglish": "The next key milestone of the project is finishing the user testing phase.",
+    "hint": "Cột mốc: next key milestone of the project",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic36_03",
+    "topic": "Quản lý dự án (Project Management)",
+    "vietnamese": "Việc quản trị rủi ro ngay từ giai đoạn đầu sẽ giúp tránh phát sinh chi phí ngoài ý muốn.",
+    "acceptedAnswers": [
+      "Managing risks right from the initial phase will help avoid unexpected costs.",
+      "Early risk management prevents unexpected expenses."
+    ],
+    "standardEnglish": "Managing risks right from the initial phase will help avoid unexpected costs.",
+    "hint": "Quản trị rủi ro: Managing risks right from the initial phase",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic36_04",
+    "topic": "Quản lý dự án (Project Management)",
+    "vietnamese": "Bạn có thể cập nhật bảng phân công công việc trên phần mềm quản lý dự án không?",
+    "acceptedAnswers": [
+      "Could you update the task assignment board on the project management software?",
+      "Can you update our task board on the PM tool?"
+    ],
+    "standardEnglish": "Could you update the task assignment board on the project management software?",
+    "hint": "Bảng công việc: update the task assignment board",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic36_05",
+    "topic": "Quản lý dự án (Project Management)",
+    "vietnamese": "Dự án đã được bàn giao thành công cho khách hàng và nhận được đánh giá rất cao.",
+    "acceptedAnswers": [
+      "The project was successfully handed over to the client and received high praise.",
+      "We successfully delivered the project to the client with great feedback."
+    ],
+    "standardEnglish": "The project was successfully handed over to the client and received high praise.",
+    "hint": "Bàn giao dự án: successfully handed over to the client",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic37_01",
+    "topic": "Đồng nghiệp & Làm việc nhóm (Colleagues & Teamwork)",
+    "vietnamese": "Làm việc nhóm hiệu quả đòi hỏi sự tin tưởng, tôn trọng và hợp tác chặt chẽ giữa các thành viên.",
+    "acceptedAnswers": [
+      "Effective teamwork requires trust, respect, and close collaboration among members.",
+      "Good teamwork relies on mutual trust and open collaboration."
+    ],
+    "standardEnglish": "Effective teamwork requires trust, respect, and close collaboration among members.",
+    "hint": "Tinh thần đồng đội: trust, respect, and close collaboration",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic37_02",
+    "topic": "Đồng nghiệp & Làm việc nhóm (Colleagues & Teamwork)",
+    "vietnamese": "Cảm ơn bạn đã hỗ trợ tôi rất nhiệt tình để hoàn thành kịp báo cáo chiều nay.",
+    "acceptedAnswers": [
+      "Thank you for enthusiastically supporting me to finish the report on time this afternoon.",
+      "Thanks a lot for backing me up on the report today."
+    ],
+    "standardEnglish": "Thank you for enthusiastically supporting me to finish the report on time this afternoon.",
+    "hint": "Hỗ trợ đồng nghiệp: enthusiastically supporting me to finish on time",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic37_03",
+    "topic": "Đồng nghiệp & Làm việc nhóm (Colleagues & Teamwork)",
+    "vietnamese": "Chúng ta hãy cùng nhau tổ chức một buổi liên hoan nhỏ để chúc mừng thành công này.",
+    "acceptedAnswers": [
+      "Let's organize a small gathering party together to celebrate this success.",
+      "Let's have a small celebration party for this win."
+    ],
+    "standardEnglish": "Let's organize a small gathering party together to celebrate this success.",
+    "hint": "Ăn mừng nhóm: organize a small gathering party to celebrate",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic37_04",
+    "topic": "Đồng nghiệp & Làm việc nhóm (Colleagues & Teamwork)",
+    "vietnamese": "Kỹ năng lắng nghe tích cực giúp các thành viên thấu hiểu và tránh hiểu lầm trong công việc.",
+    "acceptedAnswers": [
+      "Active listening skills help members understand each other and avoid misunderstandings at work.",
+      "Active listening prevents work misunderstandings."
+    ],
+    "standardEnglish": "Active listening skills help members understand each other and avoid misunderstandings at work.",
+    "hint": "Lắng nghe: Active listening skills help members understand",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic37_05",
+    "topic": "Đồng nghiệp & Làm việc nhóm (Colleagues & Teamwork)",
+    "vietnamese": "Thành công này là nỗ lực và công sức của toàn thể các thành viên trong tập thể.",
+    "acceptedAnswers": [
+      "This success is the effort and hard work of all members in the collective.",
+      "This victory belongs to the hard work of our whole team."
+    ],
+    "standardEnglish": "This success is the effort and hard work of all members in the collective.",
+    "hint": "Thành công chung: effort and hard work of all members",
+    "category": "Công việc"
+  },
+  {
+    "id": "topic38_01",
+    "topic": "Trường học & Đại học (School & University)",
+    "vietnamese": "Thư viện trường mở cửa đến mười giờ đêm phục vụ sinh viên tự học và nghiên cứu.",
+    "acceptedAnswers": [
+      "The campus library stays open until ten PM for students to self-study and research.",
+      "The library is open till 10 PM for student study."
+    ],
+    "standardEnglish": "The campus library stays open until ten PM for students to self-study and research.",
+    "hint": "Thư viện trường: campus library stays open until ten PM",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic38_02",
+    "topic": "Trường học & Đại học (School & University)",
+    "vietnamese": "Tôi đang nỗ lực đạt điểm số cao trong học kỳ này để giành học bổng xuất sắc.",
+    "acceptedAnswers": [
+      "I am striving to achieve high grades this semester to earn a merit scholarship.",
+      "I'm working hard for good grades to win a scholarship."
+    ],
+    "standardEnglish": "I am striving to achieve high grades this semester to earn a merit scholarship.",
+    "hint": "Học bổng: earn a merit scholarship",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic38_03",
+    "topic": "Trường học & Đại học (School & University)",
+    "vietnamese": "Giáo sư đã giao cho chúng tôi một bài tập nhóm về phân tích thị trường tài chính.",
+    "acceptedAnswers": [
+      "The professor assigned us a group project on financial market analysis.",
+      "We were assigned a team project on market trends."
+    ],
+    "standardEnglish": "The professor assigned us a group project on financial market analysis.",
+    "hint": "Bài tập nhóm: assigned us a group project",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic38_04",
+    "topic": "Trường học & Đại học (School & University)",
+    "vietnamese": "Tham gia các câu lạc bộ tình nguyện giúp sinh viên rèn luyện kỹ năng mềm quý báu.",
+    "acceptedAnswers": [
+      "Joining volunteer clubs helps students develop valuable soft skills.",
+      "Volunteer clubs teach students great life skills."
+    ],
+    "standardEnglish": "Joining volunteer clubs helps students develop valuable soft skills.",
+    "hint": "Kỹ năng mềm: develop valuable soft skills",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic38_05",
+    "topic": "Trường học & Đại học (School & University)",
+    "vietnamese": "Tôi đang chuẩn bị bảo vệ khóa luận tốt nghiệp trước hội đồng vào tháng tới.",
+    "acceptedAnswers": [
+      "I am preparing to defend my graduation thesis before the committee next month.",
+      "I'm getting ready for my thesis defense next month."
+    ],
+    "standardEnglish": "I am preparing to defend my graduation thesis before the committee next month.",
+    "hint": "Khóa luận tốt nghiệp: defend my graduation thesis",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic39_01",
+    "topic": "Kỳ thi & Học tập (Exams & Studying)",
+    "vietnamese": "Tôi cần lập một kế hoạch ôn tập chi tiết hai tuần trước khi kỳ thi cuối kỳ bắt đầu.",
+    "acceptedAnswers": [
+      "I need to make a detailed study revision plan two weeks before final exams start.",
+      "I should create a revision plan before finals begin."
+    ],
+    "standardEnglish": "I need to make a detailed study revision plan two weeks before final exams start.",
+    "hint": "Kế hoạch ôn tập: detailed study revision plan",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic39_02",
+    "topic": "Kỳ thi & Học tập (Exams & Studying)",
+    "vietnamese": "Đừng thức khuya học bài vào đêm trước ngày thi vì bạn cần có một trí óc minh mẫn.",
+    "acceptedAnswers": [
+      "Don't stay up late studying the night before the exam because you need a clear mind.",
+      "Avoid pulling an all-nighter before exam day."
+    ],
+    "standardEnglish": "Don't stay up late studying the night before the exam because you need a clear mind.",
+    "hint": "Không thức khuya: Don't stay up late studying",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic39_03",
+    "topic": "Kỳ thi & Học tập (Exams & Studying)",
+    "vietnamese": "Luyện giải các đề thi năm trước là cách hiệu quả nhất để làm quen với cấu trúc đề.",
+    "acceptedAnswers": [
+      "Practicing past exam papers is the most effective way to get familiar with the test structure.",
+      "Doing mock tests helps you understand the exam format."
+    ],
+    "standardEnglish": "Practicing past exam papers is the most effective way to get familiar with the test structure.",
+    "hint": "Luyện đề thi: Practicing past exam papers",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic39_04",
+    "topic": "Kỳ thi & Học tập (Exams & Studying)",
+    "vietnamese": "Hãy giữ bình tĩnh và đọc kỹ từng câu hỏi trước khi đặt bút viết câu trả lời.",
+    "acceptedAnswers": [
+      "Stay calm and read each question carefully before putting pen to write your answer.",
+      "Keep calm and read every question thoroughly."
+    ],
+    "standardEnglish": "Stay calm and read each question carefully before putting pen to write your answer.",
+    "hint": "Bình tĩnh: read each question carefully before writing",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic39_05",
+    "topic": "Kỳ thi & Học tập (Exams & Studying)",
+    "vietnamese": "Chúc bạn hoàn thành bài thi một cách xuất sắc và đạt được kết quả cao nhất!",
+    "acceptedAnswers": [
+      "Wishing you complete your exam brilliantly and achieve the highest scores!",
+      "Good luck on your exam, hope you get top scores!"
+    ],
+    "standardEnglish": "Wishing you complete your exam brilliantly and achieve the highest scores!",
+    "hint": "Chúc thi tốt: complete your exam brilliantly and achieve high scores",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic40_01",
+    "topic": "Tiếng Anh & Ngoại ngữ (Language Learning)",
+    "vietnamese": "Cách tốt nhất để nâng cao phản xạ tiếng Anh là luyện nói to thành tiếng mỗi ngày.",
+    "acceptedAnswers": [
+      "The best way to improve English reflex is to practice speaking aloud every day.",
+      "Practice speaking aloud daily to sharpen your language reflexes."
+    ],
+    "standardEnglish": "The best way to improve English reflex is to practice speaking aloud every day.",
+    "hint": "Luyện phản xạ: practice speaking aloud every day",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic40_02",
+    "topic": "Tiếng Anh & Ngoại ngữ (Language Learning)",
+    "vietnamese": "Đừng sợ mắc lỗi ngữ pháp khi nói vì sai lầm là một phần tất yếu của quá trình học.",
+    "acceptedAnswers": [
+      "Don't be afraid of making grammar mistakes when speaking because errors are a natural part of learning.",
+      "Don't fear mistakes, they are essential to learning."
+    ],
+    "standardEnglish": "Don't be afraid of making grammar mistakes when speaking because errors are a natural part of learning.",
+    "hint": "Không sợ sai: Don't be afraid of making grammar mistakes",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic40_03",
+    "topic": "Tiếng Anh & Ngoại ngữ (Language Learning)",
+    "vietnamese": "Xem phim tiếng Anh có phụ đề tiếng Anh giúp bạn ghi nhớ cách dùng từ rất tự nhiên.",
+    "acceptedAnswers": [
+      "Watching English movies with English subtitles helps you memorize words very naturally.",
+      "English subtitles help you pick up natural phrasing."
+    ],
+    "standardEnglish": "Watching English movies with English subtitles helps you memorize words very naturally.",
+    "hint": "Học qua phim: Watching English movies with English subtitles",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic40_04",
+    "topic": "Tiếng Anh & Ngoại ngữ (Language Learning)",
+    "vietnamese": "Tôi thường nghe podcast tiếng Anh vào mỗi buổi sáng khi đang di chuyển trên xe buýt.",
+    "acceptedAnswers": [
+      "I usually listen to English podcasts every morning while commuting on the bus.",
+      "I listen to podcasts on my morning bus commute."
+    ],
+    "standardEnglish": "I usually listen to English podcasts every morning while commuting on the bus.",
+    "hint": "Nghe podcast: listen to English podcasts while commuting",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic40_05",
+    "topic": "Tiếng Anh & Ngoại ngữ (Language Learning)",
+    "vietnamese": "Kiên trì luyện tập đều đặn mười lăm phút mỗi ngày sẽ mang lại sự tiến bộ vượt bậc.",
+    "acceptedAnswers": [
+      "Practicing consistently for fifteen minutes every day will yield tremendous progress.",
+      "Consistent 15-minute daily practice brings huge improvements."
+    ],
+    "standardEnglish": "Practicing consistently for fifteen minutes every day will yield tremendous progress.",
+    "hint": "Kiên trì: Practicing consistently for fifteen minutes every day",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic41_01",
+    "topic": "Công nghệ & Phần mềm (Tech & Software)",
+    "vietnamese": "Trí tuệ nhân tạo đang làm thay đổi căn bản cách thức con người học tập và làm việc.",
+    "acceptedAnswers": [
+      "Artificial intelligence is fundamentally changing how humans learn and work.",
+      "AI is reshaping the way people learn and do work."
+    ],
+    "standardEnglish": "Artificial intelligence is fundamentally changing how humans learn and work.",
+    "hint": "Trí tuệ nhân tạo: Artificial intelligence is fundamentally changing",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic41_02",
+    "topic": "Công nghệ & Phần mềm (Tech & Software)",
+    "vietnamese": "Đội ngũ lập trình viên vừa phát hành bản cập nhật phần mềm sửa các lỗi bảo mật.",
+    "acceptedAnswers": [
+      "The developer team just released a software update patching security bugs.",
+      "Devs just launched an update fixing security vulnerabilities."
+    ],
+    "standardEnglish": "The developer team just released a software update patching security bugs.",
+    "hint": "Cập nhật phần mềm: released a software update patching security bugs",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic41_03",
+    "topic": "Công nghệ & Phần mềm (Tech & Software)",
+    "vietnamese": "Lưu trữ dữ liệu trên nền tảng điện toán đám mây giúp bạn truy cập mọi lúc mọi nơi.",
+    "acceptedAnswers": [
+      "Storing data on cloud computing platforms helps you access it anytime, anywhere.",
+      "Cloud storage allows you to access files from anywhere."
+    ],
+    "standardEnglish": "Storing data on cloud computing platforms helps you access it anytime, anywhere.",
+    "hint": "Điện toán đám mây: Storing data on cloud computing platforms",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic41_04",
+    "topic": "Công nghệ & Phần mềm (Tech & Software)",
+    "vietnamese": "Giao diện người dùng của ứng dụng này được thiết kế rất trực quan và dễ sử dụng.",
+    "acceptedAnswers": [
+      "The user interface of this application is designed very intuitively and is user-friendly.",
+      "The UI of this app is very clean and intuitive."
+    ],
+    "standardEnglish": "The user interface of this application is designed very intuitively and is user-friendly.",
+    "hint": "Giao diện: user interface is designed intuitively",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic41_05",
+    "topic": "Công nghệ & Phần mềm (Tech & Software)",
+    "vietnamese": "Hãy nhớ đặt mật khẩu mạnh và kích hoạt tính năng xác thực hai yếu tố để bảo vệ tài khoản.",
+    "acceptedAnswers": [
+      "Remember to set a strong password and enable two-factor authentication to protect your account.",
+      "Use strong passwords and enable 2FA for security."
+    ],
+    "standardEnglish": "Remember to set a strong password and enable two-factor authentication to protect your account.",
+    "hint": "Bảo mật tài khoản: enable two-factor authentication to protect your account",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic42_01",
+    "topic": "Điện thoại & Thiết bị (Smartphones & Gadgets)",
+    "vietnamese": "Chiếc điện thoại thông minh này có thời lượng pin ấn tượng kéo dài suốt cả ngày dài.",
+    "acceptedAnswers": [
+      "This smartphone has an impressive battery life lasting the entire day.",
+      "This phone has great battery life that lasts all day."
+    ],
+    "standardEnglish": "This smartphone has an impressive battery life lasting the entire day.",
+    "hint": "Thời lượng pin: impressive battery life lasting the entire day",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic42_02",
+    "topic": "Điện thoại & Thiết bị (Smartphones & Gadgets)",
+    "vietnamese": "Tính năng sạc nhanh cho phép sạc đầy năm mươi phần trăm pin chỉ trong vòng hai mươi phút.",
+    "acceptedAnswers": [
+      "The fast charging feature allows charging fifty percent battery in just twenty minutes.",
+      "Fast charging gets 50% battery in 20 minutes."
+    ],
+    "standardEnglish": "The fast charging feature allows charging fifty percent battery in just twenty minutes.",
+    "hint": "Sạc nhanh: fast charging feature allows charging 50%",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic42_03",
+    "topic": "Điện thoại & Thiết bị (Smartphones & Gadgets)",
+    "vietnamese": "Camera của máy chụp ảnh rất sắc nét và rõ chi tiết ngay cả trong điều kiện thiếu sáng.",
+    "acceptedAnswers": [
+      "The device's camera takes very sharp and detailed photos even in low-light conditions.",
+      "The camera captures sharp photos even at night."
+    ],
+    "standardEnglish": "The device's camera takes very sharp and detailed photos even in low-light conditions.",
+    "hint": "Chụp ảnh: takes very sharp and detailed photos in low-light",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic42_04",
+    "topic": "Điện thoại & Thiết bị (Smartphones & Gadgets)",
+    "vietnamese": "Tôi muốn kết nối chiếc tai nghe không dây này với máy tính bảng qua bluetooth.",
+    "acceptedAnswers": [
+      "I want to connect these wireless earbuds to the tablet via bluetooth.",
+      "I'd like to pair my wireless earphones with the tablet."
+    ],
+    "standardEnglish": "I want to connect these wireless earbuds to the tablet via bluetooth.",
+    "hint": "Tai nghe không dây: connect wireless earbuds via bluetooth",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic42_05",
+    "topic": "Điện thoại & Thiết bị (Smartphones & Gadgets)",
+    "vietnamese": "Bạn nên dán thêm miếng kính cường lực để bảo vệ màn hình cảm ứng khỏi bị trầy xước.",
+    "acceptedAnswers": [
+      "You should apply a tempered glass screen protector to guard the touchscreen from scratches.",
+      "Put a tempered glass protector on to avoid scratches."
+    ],
+    "standardEnglish": "You should apply a tempered glass screen protector to guard the touchscreen from scratches.",
+    "hint": "Kính cường lực: apply a tempered glass screen protector",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic43_01",
+    "topic": "Mạng xã hội & Internet (Social Media & Internet)",
+    "vietnamese": "Bài viết chia sẻ kinh nghiệm học ngoại ngữ của bạn đã nhận được hàng nghìn lượt thích.",
+    "acceptedAnswers": [
+      "Your post sharing language learning experiences received thousands of likes.",
+      "Your post on language learning went viral with tons of likes."
+    ],
+    "standardEnglish": "Your post sharing language learning experiences received thousands of likes.",
+    "hint": "Bài viết chia sẻ: post sharing language learning experiences received",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic43_02",
+    "topic": "Mạng xã hội & Internet (Social Media & Internet)",
+    "vietnamese": "Hãy luôn cẩn trọng và kiểm chứng nguồn gốc trước khi chia sẻ tin tức trên mạng xã hội.",
+    "acceptedAnswers": [
+      "Always be cautious and verify sources before sharing news on social media.",
+      "Make sure to verify news sources before hitting share."
+    ],
+    "standardEnglish": "Always be cautious and verify sources before sharing news on social media.",
+    "hint": "Kiểm chứng tin tức: verify sources before sharing news",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic43_03",
+    "topic": "Mạng xã hội & Internet (Social Media & Internet)",
+    "vietnamese": "Mạng xã hội giúp chúng ta dễ dàng giữ liên lạc với bạn bè dù ở xa.",
+    "acceptedAnswers": [
+      "Social media helps us easily stay in touch with friends despite long distances.",
+      "Social networks help us keep in touch with distant friends."
+    ],
+    "standardEnglish": "Social media helps us easily stay in touch with friends despite long distances.",
+    "hint": "Giữ liên lạc: easily stay in touch with friends",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic43_04",
+    "topic": "Mạng xã hội & Internet (Social Media & Internet)",
+    "vietnamese": "Bạn nên cài đặt chế độ riêng tư cho tài khoản để bảo vệ thông tin cá nhân của mình.",
+    "acceptedAnswers": [
+      "You should configure privacy settings for your account to protect personal information.",
+      "Adjust your privacy settings to safeguard personal data."
+    ],
+    "standardEnglish": "You should configure privacy settings for your account to protect personal information.",
+    "hint": "Chế độ riêng tư: configure privacy settings for your account",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic43_05",
+    "topic": "Mạng xã hội & Internet (Social Media & Internet)",
+    "vietnamese": "Kênh video giáo dục này cung cấp rất nhiều bài giảng bổ ích và hoàn toàn miễn phí.",
+    "acceptedAnswers": [
+      "This educational video channel provides many informative lectures completely free of charge.",
+      "This channel offers wonderful free educational lessons."
+    ],
+    "standardEnglish": "This educational video channel provides many informative lectures completely free of charge.",
+    "hint": "Kênh video: educational video channel provides informative lectures",
+    "category": "Học tập & CN"
+  },
+  {
+    "id": "topic44_01",
+    "topic": "Phim ảnh & Điện ảnh (Movies & Cinema)",
+    "vietnamese": "Bạn có muốn đi xem bộ phim bom tấn mới ra rạp vào tối thứ Bảy này không?",
+    "acceptedAnswers": [
+      "Do you want to go watch the new blockbuster movie in theaters this Saturday night?",
+      "Would you like to catch the new blockbuster this Saturday?"
+    ],
+    "standardEnglish": "Do you want to go watch the new blockbuster movie in theaters this Saturday night?",
+    "hint": "Phim bom tấn: watch the new blockbuster movie in theaters",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic44_02",
+    "topic": "Phim ảnh & Điện ảnh (Movies & Cinema)",
+    "vietnamese": "Diễn viên chính đã thể hiện vai diễn một cách vô cùng xuất sắc và xúc động.",
+    "acceptedAnswers": [
+      "The lead actor portrayed the role extremely brilliantly and emotionally.",
+      "The main actor played the role with great emotion."
+    ],
+    "standardEnglish": "The lead actor portrayed the role extremely brilliantly and emotionally.",
+    "hint": "Diễn xuất: lead actor portrayed the role brilliantly",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic44_03",
+    "topic": "Phim ảnh & Điện ảnh (Movies & Cinema)",
+    "vietnamese": "Cốt truyện của bộ phim này chứa đựng rất nhiều tình tiết bất ngờ đến phút cuối.",
+    "acceptedAnswers": [
+      "The plot of this movie contains many unexpected twists until the very end.",
+      "The plot has so many plot twists right up to the end."
+    ],
+    "standardEnglish": "The plot of this movie contains many unexpected twists until the very end.",
+    "hint": "Cốt truyện: plot contains many unexpected twists",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic44_04",
+    "topic": "Phim ảnh & Điện ảnh (Movies & Cinema)",
+    "vietnamese": "Làm ơn cho tôi hai vé xem phim suất tám giờ tối và một phần bắp rang bơ lớn.",
+    "acceptedAnswers": [
+      "Could I have two movie tickets for the eight PM show and a large popcorn, please?",
+      "Two tickets for the 8 PM screening and a big popcorn, please."
+    ],
+    "standardEnglish": "Could I have two movie tickets for the eight PM show and a large popcorn, please?",
+    "hint": "Mua vé: two movie tickets for the eight PM show",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic44_05",
+    "topic": "Phim ảnh & Điện ảnh (Movies & Cinema)",
+    "vietnamese": "Bộ phim tài liệu này phản ánh chân thực cuộc sống của những người dân vùng cao.",
+    "acceptedAnswers": [
+      "This documentary genuinely reflects the life of people in mountainous regions.",
+      "This documentary offers a real look into mountain life."
+    ],
+    "standardEnglish": "This documentary genuinely reflects the life of people in mountainous regions.",
+    "hint": "Phim tài liệu: documentary genuinely reflects the life",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic45_01",
+    "topic": "Âm nhạc & Buổi hòa nhạc (Music & Concerts)",
+    "vietnamese": "Giai điệu du dương của bài hát này luôn làm tôi cảm thấy thư thái sau một ngày bận rộn.",
+    "acceptedAnswers": [
+      "The melodious tune of this song always makes me feel relaxed after a busy day.",
+      "This soothing melody always relaxes me after work."
+    ],
+    "standardEnglish": "The melodious tune of this song always makes me feel relaxed after a busy day.",
+    "hint": "Giai điệu: melodious tune of this song",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic45_02",
+    "topic": "Âm nhạc & Buổi hòa nhạc (Music & Concerts)",
+    "vietnamese": "Chúng tôi đã may mắn mua được vé xem buổi hòa nhạc của ban nhạc mình yêu thích.",
+    "acceptedAnswers": [
+      "We were lucky enough to get tickets to the concert of our favorite band.",
+      "We managed to snag concert tickets for our favorite band."
+    ],
+    "standardEnglish": "We were lucky enough to get tickets to the concert of our favorite band.",
+    "hint": "Vé hòa nhạc: get tickets to the concert of our favorite band",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic45_03",
+    "topic": "Âm nhạc & Buổi hòa nhạc (Music & Concerts)",
+    "vietnamese": "Tôi đang học chơi đàn guitar acoustic để có thể tự đệm hát những bài mình thích.",
+    "acceptedAnswers": [
+      "I am learning to play the acoustic guitar so I can accompany my own singing.",
+      "I'm learning acoustic guitar to sing along."
+    ],
+    "standardEnglish": "I am learning to play the acoustic guitar so I can accompany my own singing.",
+    "hint": "Học đàn guitar: learning to play the acoustic guitar",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic45_04",
+    "topic": "Âm nhạc & Buổi hòa nhạc (Music & Concerts)",
+    "vietnamese": "Lời bài hát này mang một ý nghĩa rất sâu sắc và chạm đến trái tim người nghe.",
+    "acceptedAnswers": [
+      "The lyrics of this song carry a profound meaning and touch the listener's heart.",
+      "These song lyrics are so deep and touching."
+    ],
+    "standardEnglish": "The lyrics of this song carry a profound meaning and touch the listener's heart.",
+    "hint": "Lời bài hát: lyrics carry a profound meaning",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic45_05",
+    "topic": "Âm nhạc & Buổi hòa nhạc (Music & Concerts)",
+    "vietnamese": "Không khí sôi động của buổi biểu diễn âm nhạc trực tiếp thật khó quên.",
+    "acceptedAnswers": [
+      "The energetic atmosphere of the live music performance was truly unforgettable.",
+      "The vibe of the live concert was simply unforgettable."
+    ],
+    "standardEnglish": "The energetic atmosphere of the live music performance was truly unforgettable.",
+    "hint": "Không khí sôi động: energetic atmosphere of the live performance",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic46_01",
+    "topic": "Thể thao & Tập thể dục (Sports & Fitness)",
+    "vietnamese": "Tập thể dục thể thao đều đặn ba mươi phút mỗi ngày giúp tăng cường hệ miễn dịch.",
+    "acceptedAnswers": [
+      "Exercising regularly for thirty minutes a day helps boost the immune system.",
+      "Daily 30-minute workouts strengthen your immune system."
+    ],
+    "standardEnglish": "Exercising regularly for thirty minutes a day helps boost the immune system.",
+    "hint": "Tập thể dục: Exercising regularly helps boost immune system",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic46_02",
+    "topic": "Thể thao & Tập thể dục (Sports & Fitness)",
+    "vietnamese": "Tôi đã đăng ký một khóa tập gym có huấn luyện viên cá nhân hướng dẫn kỹ thuật.",
+    "acceptedAnswers": [
+      "I signed up for a gym package with a personal trainer coaching the techniques.",
+      "I got a gym membership with a personal trainer."
+    ],
+    "standardEnglish": "I signed up for a gym package with a personal trainer coaching the techniques.",
+    "hint": "Huấn luyện viên: gym package with a personal trainer",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic46_03",
+    "topic": "Thể thao & Tập thể dục (Sports & Fitness)",
+    "vietnamese": "Chạy bộ ngoài trời vào sáng sớm giúp tinh thần sảng khoái và tràn đầy năng lượng.",
+    "acceptedAnswers": [
+      "Jogging outdoors in the early morning refreshes the mind and fills you with energy.",
+      "Morning outdoor jogging keeps you energetic all day."
+    ],
+    "standardEnglish": "Jogging outdoors in the early morning refreshes the mind and fills you with energy.",
+    "hint": "Chạy bộ: Jogging outdoors in the early morning",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic46_04",
+    "topic": "Thể thao & Tập thể dục (Sports & Fitness)",
+    "vietnamese": "Hãy nhớ khởi động kỹ các khớp trước khi bắt đầu bài tập cường độ cao.",
+    "acceptedAnswers": [
+      "Remember to warm up your joints thoroughly before starting high-intensity exercises.",
+      "Always warm up properly before heavy exercise."
+    ],
+    "standardEnglish": "Remember to warm up your joints thoroughly before starting high-intensity exercises.",
+    "hint": "Khởi động: warm up your joints thoroughly before starting",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic46_05",
+    "topic": "Thể thao & Tập thể dục (Sports & Fitness)",
+    "vietnamese": "Tinh thần thể thao cao thượng thể hiện ở việc tôn trọng đối thủ và luật chơi.",
+    "acceptedAnswers": [
+      "True sportsmanship is demonstrated by respecting opponents and the rules of the game.",
+      "Good sportsmanship means respecting opponents and rules."
+    ],
+    "standardEnglish": "True sportsmanship is demonstrated by respecting opponents and the rules of the game.",
+    "hint": "Tinh thần thể thao: True sportsmanship is demonstrated by...",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic47_01",
+    "topic": "Bệnh viện & Sức khỏe (Doctor & Healthcare)",
+    "vietnamese": "Tôi muốn đăng ký khám sức khỏe tổng quát định kỳ vào sáng mai.",
+    "acceptedAnswers": [
+      "I would like to register for a routine general health checkup tomorrow morning.",
+      "I'd like to book a general checkup tomorrow morning."
+    ],
+    "standardEnglish": "I would like to register for a routine general health checkup tomorrow morning.",
+    "hint": "Khám định kỳ: register for a routine general health checkup",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic47_02",
+    "topic": "Bệnh viện & Sức khỏe (Doctor & Healthcare)",
+    "vietnamese": "Bác sĩ ơi, tôi bị đau đầu và sốt nhẹ liên tục trong suốt hai ngày qua.",
+    "acceptedAnswers": [
+      "Doctor, I have had a headache and a mild fever continuously for the past two days.",
+      "Doctor, I've had a headache and slight fever for 2 days."
+    ],
+    "standardEnglish": "Doctor, I have had a headache and a mild fever continuously for the past two days.",
+    "hint": "Triệu chứng bệnh: headache and a mild fever continuously",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic47_03",
+    "topic": "Bệnh viện & Sức khỏe (Doctor & Healthcare)",
+    "vietnamese": "Làm ơn cho tôi hỏi khu vực làm xét nghiệm máu và chụp X-quang ở tầng mấy?",
+    "acceptedAnswers": [
+      "Excuse me, on which floor are the blood testing and X-ray areas located?",
+      "Which floor are the blood test and X-ray labs on?"
+    ],
+    "standardEnglish": "Excuse me, on which floor are the blood testing and X-ray areas located?",
+    "hint": "Khu vực xét nghiệm: blood testing and X-ray areas located",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic47_04",
+    "topic": "Bệnh viện & Sức khỏe (Doctor & Healthcare)",
+    "vietnamese": "Bạn nên nghỉ ngơi tĩnh dưỡng nhiều hơn và uống nhiều nước ấm để mau hồi phục.",
+    "acceptedAnswers": [
+      "You should rest more and drink plenty of warm water to recover quickly.",
+      "Get plenty of rest and drink warm water to get well soon."
+    ],
+    "standardEnglish": "You should rest more and drink plenty of warm water to recover quickly.",
+    "hint": "Lời khuyên bác sĩ: rest more and drink plenty of warm water",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic47_05",
+    "topic": "Bệnh viện & Sức khỏe (Doctor & Healthcare)",
+    "vietnamese": "Bảo hiểm y tế của bạn sẽ chi trả phần lớn viện phí cho đợt điều trị này.",
+    "acceptedAnswers": [
+      "Your health insurance will cover most of the hospital expenses for this treatment.",
+      "Your health insurance covers most of the treatment costs."
+    ],
+    "standardEnglish": "Your health insurance will cover most of the hospital expenses for this treatment.",
+    "hint": "Bảo hiểm y tế: health insurance will cover most expenses",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic48_01",
+    "topic": "Hiệu thuốc & Thuốc men (Pharmacy & Medication)",
+    "vietnamese": "Cho tôi mua một vỉ thuốc giảm đau và một hộp viên ngậm trị viêm họng.",
+    "acceptedAnswers": [
+      "Could I buy a blister pack of painkillers and a box of throat lozenges, please?",
+      "Can I get a pack of painkillers and cough lozenges?"
+    ],
+    "standardEnglish": "Could I buy a blister pack of painkillers and a box of throat lozenges, please?",
+    "hint": "Mua thuốc: blister pack of painkillers and throat lozenges",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic48_02",
+    "topic": "Hiệu thuốc & Thuốc men (Pharmacy & Medication)",
+    "vietnamese": "Loại thuốc này uống trước hay sau bữa ăn và mỗi lần uống mấy viên?",
+    "acceptedAnswers": [
+      "Should this medicine be taken before or after meals and how many pills per dose?",
+      "Do I take this before or after meals, and how many pills?"
+    ],
+    "standardEnglish": "Should this medicine be taken before or after meals and how many pills per dose?",
+    "hint": "Cách dùng thuốc: taken before or after meals... how many pills",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic48_03",
+    "topic": "Hiệu thuốc & Thuốc men (Pharmacy & Medication)",
+    "vietnamese": "Thuốc này có gây tác dụng phụ buồn ngủ khi lái xe hoặc làm việc không?",
+    "acceptedAnswers": [
+      "Does this medication cause any drowsy side effects while driving or working?",
+      "Will this medicine make me drowsy?"
+    ],
+    "standardEnglish": "Does this medication cause any drowsy side effects while driving or working?",
+    "hint": "Tác dụng phụ: cause any drowsy side effects",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic48_04",
+    "topic": "Hiệu thuốc & Thuốc men (Pharmacy & Medication)",
+    "vietnamese": "Hãy đọc kỹ hướng dẫn liều lượng sử dụng trước khi cho trẻ nhỏ uống thuốc.",
+    "acceptedAnswers": [
+      "Carefully read the dosage instructions before administering medication to young children.",
+      "Always check the dosage instructions for children."
+    ],
+    "standardEnglish": "Carefully read the dosage instructions before administering medication to young children.",
+    "hint": "Liều lượng: read the dosage instructions before administering",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic48_05",
+    "topic": "Hiệu thuốc & Thuốc men (Pharmacy & Medication)",
+    "vietnamese": "Bạn cần uống đủ liều kháng sinh theo đơn của bác sĩ dù triệu chứng đã giảm.",
+    "acceptedAnswers": [
+      "You must complete the antibiotic course prescribed by the doctor even if symptoms ease.",
+      "Finish the full antibiotic course prescribed by your doctor."
+    ],
+    "standardEnglish": "You must complete the antibiotic course prescribed by the doctor even if symptoms ease.",
+    "hint": "Uống kháng sinh: complete the antibiotic course prescribed",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic49_01",
+    "topic": "Hẹn hò & Tình cảm (Dating & Relationships)",
+    "vietnamese": "Tôi cảm thấy hơi hồi hộp nhưng rất hạnh phúc trước buổi hẹn hò đầu tiên tối nay.",
+    "acceptedAnswers": [
+      "I feel a bit nervous but very happy before our first date tonight.",
+      "I'm a little nervous but excited for our first date tonight."
+    ],
+    "standardEnglish": "I feel a bit nervous but very happy before our first date tonight.",
+    "hint": "Hẹn hò: feel a bit nervous but very happy before our first date",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic49_02",
+    "topic": "Hẹn hò & Tình cảm (Dating & Relationships)",
+    "vietnamese": "Cảm ơn anh vì bó hoa hồng tuyệt đẹp và bữa tối lãng mạn dưới ánh nến.",
+    "acceptedAnswers": [
+      "Thank you for the beautiful bouquet of roses and romantic candlelight dinner.",
+      "Thanks for the gorgeous roses and candlelight dinner."
+    ],
+    "standardEnglish": "Thank you for the beautiful bouquet of roses and romantic candlelight dinner.",
+    "hint": "Bữa tối lãng mạn: bouquet of roses and candlelight dinner",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic49_03",
+    "topic": "Hẹn hò & Tình cảm (Dating & Relationships)",
+    "vietnamese": "Điều quan trọng nhất trong tình yêu là sự tin tưởng, chân thành và tôn trọng lẫn nhau.",
+    "acceptedAnswers": [
+      "The most vital thing in love is trust, sincerity, and mutual respect.",
+      "Trust, honesty, and mutual respect are essential in love."
+    ],
+    "standardEnglish": "The most vital thing in love is trust, sincerity, and mutual respect.",
+    "hint": "Tình yêu: trust, sincerity, and mutual respect",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic49_04",
+    "topic": "Hẹn hò & Tình cảm (Dating & Relationships)",
+    "vietnamese": "Chúng ta có rất nhiều sở thích tương đồng về âm nhạc và thói quen du lịch.",
+    "acceptedAnswers": [
+      "We share so many similar interests in music and travel habits.",
+      "We have so much in common regarding music and travel."
+    ],
+    "standardEnglish": "We share so many similar interests in music and travel habits.",
+    "hint": "Sở thích chung: share so many similar interests",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic49_05",
+    "topic": "Hẹn hò & Tình cảm (Dating & Relationships)",
+    "vietnamese": "Thật tuyệt vời khi tìm được một người luôn thấu hiểu và lắng nghe mọi tâm sự của mình.",
+    "acceptedAnswers": [
+      "It is wonderful to find someone who always understands and listens to all my thoughts.",
+      "It feels great to have someone who truly understands you."
+    ],
+    "standardEnglish": "It is wonderful to find someone who always understands and listens to all my thoughts.",
+    "hint": "Thấu hiểu: find someone who always understands and listens",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic50_01",
+    "topic": "Kế hoạch & Mục tiêu tương lai (Future Plans & Goals)",
+    "vietnamese": "Mục tiêu quan trọng nhất của tôi trong năm tới là đạt chứng chỉ tiếng Anh quốc tế.",
+    "acceptedAnswers": [
+      "My most important goal next year is to attain an international English certificate.",
+      "My top goal for next year is getting an international English certification."
+    ],
+    "standardEnglish": "My most important goal next year is to attain an international English certificate.",
+    "hint": "Mục tiêu: most important goal next year is to attain...",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic50_02",
+    "topic": "Kế hoạch & Mục tiêu tương lai (Future Plans & Goals)",
+    "vietnamese": "Tôi đang tích cực tiết kiệm tài chính để thực hiện ước mơ mua một căn hộ riêng.",
+    "acceptedAnswers": [
+      "I am actively building financial savings to realize my dream of buying my own apartment.",
+      "I'm saving money to buy my own place."
+    ],
+    "standardEnglish": "I am actively building financial savings to realize my dream of buying my own apartment.",
+    "hint": "Mua nhà: savings to realize my dream of buying my own apartment",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic50_03",
+    "topic": "Kế hoạch & Mục tiêu tương lai (Future Plans & Goals)",
+    "vietnamese": "Việc học tập suốt đời và liên tục phát triển bản thân là chìa khóa để thành công lâu dài.",
+    "acceptedAnswers": [
+      "Lifelong learning and continuous personal development are keys to long-term success.",
+      "Continuous self-improvement is key to sustained success."
+    ],
+    "standardEnglish": "Lifelong learning and continuous personal development are keys to long-term success.",
+    "hint": "Phát triển bản thân: continuous personal development are keys",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic50_04",
+    "topic": "Kế hoạch & Mục tiêu tương lai (Future Plans & Goals)",
+    "vietnamese": "Tôi ấp ủ kế hoạch khởi nghiệp kinh doanh một thương hiệu cà phê hữu cơ của riêng mình.",
+    "acceptedAnswers": [
+      "I harbor plans to launch a startup business with my own organic coffee brand.",
+      "I plan to start my own organic coffee brand."
+    ],
+    "standardEnglish": "I harbor plans to launch a startup business with my own organic coffee brand.",
+    "hint": "Khởi nghiệp: launch a startup business with my own brand",
+    "category": "Giải trí & Sức khỏe"
+  },
+  {
+    "id": "topic50_05",
+    "topic": "Kế hoạch & Mục tiêu tương lai (Future Plans & Goals)",
+    "vietnamese": "Hãy luôn kiên định theo đuổi đam mê và không bao giờ từ bỏ ước mơ của mình.",
+    "acceptedAnswers": [
+      "Always persistently pursue your passion and never give up on your dreams.",
+      "Stay committed to your passion and never abandon your dreams."
+    ],
+    "standardEnglish": "Always persistently pursue your passion and never give up on your dreams.",
+    "hint": "Kiên định: persistently pursue your passion and never give up",
+    "category": "Giải trí & Sức khỏe"
+  }
+]

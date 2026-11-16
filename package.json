@@ -1,0 +1,12 @@
+{
+  "name": "echoreflex",
+  "version": "1.0.0",
+  "description": "EchoReflex - Luyện Phản Xạ & Nói Tiếng Anh (50 Chủ Đề x 50 Câu)",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["english", "speaking", "reflex", "learning"],
+  "author": "",
+  "license": "MIT"
+}

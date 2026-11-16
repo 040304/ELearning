@@ -1,0 +1,6 @@
+.vercel
+node_modules
+*.bak
+*.original_backup
+*.responsive-bak
+apply_responsive.js
